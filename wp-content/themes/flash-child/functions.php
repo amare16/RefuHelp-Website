@@ -1,5 +1,5 @@
 <?php
-function my_theme_enqueue_styles() {
+function refuhelp_flash_child_enqueue() {
 
     $parent_style = 'parent-style'; // This is 'twentyfifteen-style' for the Twenty Fifteen theme.
 
@@ -10,5 +10,5 @@ function my_theme_enqueue_styles() {
         wp_get_theme()->get('Version')
     );
 }
-add_action( 'wp_enqueue_scripts', 'my_theme_enqueue_styles' );
+add_action( 'wp_enqueue_scripts', 'refuhelp_flash_child_enqueue' );
 ?>
