@@ -76,22 +76,21 @@ class SI_Widget_Social_Icons extends SI_Widget {
 				'std'   => 16,
 				'label' => __( 'Choose Icon Size', 'social-icons' ),
 			),
+			'icon_padding' => array(
+				'type'  => 'number',
+				'step'  => 1,
+				'min'   => 10,
+				'max'   => 80,
+				'std'   => 10,
+				'label' => __( 'Choose Icon Padding', 'social-icons' ),
+			),
 			'socicon_sortable' => array(
 				'type'  => 'social_icons',
 				'class' => 'socicon-sortable',
 				'label' => __( 'Sortable Socicon', 'social-icons' ),
 				'desc'  => sprintf( __( 'Note that icons above are for reference and not how they will look on front-end. %1$sList of icons supported%2$s', 'social-icons' ), '<br><a target="_blank" href="' . esc_url( 'http://www.socicon.com/chart.php' ) . '">', '</a>' ),
 				'btn'   => __( 'Add Icon', 'social-icons' ),
-				'std'   => array(
-					'twitter' => array(
-						'url'   => 'https://twitter.com/',
-						'label' => __( 'Follow Me', 'social-icons' ),
-					),
-					'facebook' => array(
-						'url'   => 'https://facebook.com/',
-						'label' => __( 'Friend me on Facebook', 'social-icons' ),
-					),
-				),
+				'std'   => si_get_default_sortable_socicons(),
 			),
 		);
 
@@ -192,7 +191,7 @@ class SI_Widget_Social_Icons extends SI_Widget {
 						continue;
 					}
 
-					$instance[ $icon_name ] = array(
+					$instance[ $icon_name . '_' . $i ] = array(
 						'url'   => $icon_url,
 						'label' => $icon_label,
 					);
@@ -266,6 +265,10 @@ class SI_Widget_Social_Icons extends SI_Widget {
 			$class_list[] = 'icons-background-' . $instance['background_style'];
 		}
 
+		// Custom icon padding and font size.
+		$icon_padding   = empty( $instance['icon_padding'] ) ? 10 : $instance['icon_padding'];
+		$icon_font_size = empty( $instance['socicon_size'] ) ? 16 : $instance['socicon_size'];
+
 		?>
 		<?php if ( ! empty( $instance['description'] ) ) : ?>
 			<p><?php echo $instance['description']; ?></p>
@@ -273,11 +276,15 @@ class SI_Widget_Social_Icons extends SI_Widget {
 
 		<ul class="social-icons-lists <?php echo esc_attr( implode( ' ', $class_list ) ); ?>">
 
-			<?php foreach ( $instance['socicon_sortable'] as $title => $field ) : ?>
+			<?php
+			$count=0;
+			foreach ( $instance['socicon_sortable'] as $title => $field ) :
+
+				$class = str_replace( '_' . $count, '', $title ); ?>
 
 				<li class="social-icons-list-item">
 					<a href="<?php echo esc_url( $field['url'] ); ?>" <?php echo ( $instance['open_tab'] ? 'target="_blank"' : '' ); ?> class="social-icon">
-						<span class="socicon socicon-<?php echo esc_attr( $title ); ?>" style="font-size: <?php echo esc_attr( $instance['socicon_size'] ); ?>px"></span>
+						<span class="socicon socicon-<?php echo esc_attr( $class ); ?>" style="padding: <?php echo esc_attr( $icon_padding ); ?>px; font-size: <?php echo esc_attr( $icon_font_size ); ?>px"></span>
 
 						<?php if ( $instance['show_label'] ) : ?>
 							<span class="social-icons-list-label"><?php echo esc_html( $field['label'] ); ?></span>
@@ -285,7 +292,9 @@ class SI_Widget_Social_Icons extends SI_Widget {
 					</a>
 				</li>
 
-			<?php endforeach; ?>
+			<?php
+			$count++;
+			endforeach; ?>
 
 		</ul>
 

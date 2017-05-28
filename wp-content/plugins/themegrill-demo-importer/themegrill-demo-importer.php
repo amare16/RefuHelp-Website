@@ -3,7 +3,7 @@
  * Plugin Name: ThemeGrill Demo Importer
  * Plugin URI: https://themegrill.com/demo-importer/
  * Description: Description: Import your demo content, widgets and theme settings with one click for ThemeGrill official themes.
- * Version: 1.3.2
+ * Version: 1.3.3
  * Author: ThemeGrill
  * Author URI: https://themegrill.com
  * License: GPLv3 or later
@@ -119,7 +119,7 @@ final class ThemeGrill_Demo_Importer {
 	 */
 	private function get_core_supported_themes() {
 		$pro_themes  = array();
-		$core_themes = array( 'spacious', 'colormag', 'flash', 'estore', 'ample', 'accelerate', 'colornews', 'foodhunt', 'fitclub', 'radiate','freedom', 'himalayas', 'esteem', 'envince' );
+		$core_themes = array( 'spacious', 'colormag', 'flash', 'estore', 'ample', 'accelerate', 'colornews', 'foodhunt', 'fitclub', 'radiate','freedom', 'himalayas', 'esteem', 'envince', 'suffice' );
 
 		// Check for core themes pro version :)
 		foreach ( $core_themes as $core_theme ) {
