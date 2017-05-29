@@ -1,0 +1,3999 @@
+# Translation of Plugins - Flash Toolkit - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Flash Toolkit - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-18 14:28:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Flash Toolkit - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://themegrill.com"
+msgstr "http://themegrill.com"
+
+#. Author of the plugin/theme
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
+
+#. Description of the plugin/theme
+msgid "Flash Toolkit is a companion for Flash WordPress theme by ThemeGrill"
+msgstr "Flash Toolkit est un compagnon pour le thème WordPress Flash par ThemeGrill."
+
+#. Plugin URI of the plugin/theme
+msgid "http://themegrill.com/theme/flash"
+msgstr "http://themegrill.com/theme/flash"
+
+#: templates/content-widget-portfolio.php:39
+msgid "Show All"
+msgstr "Tout afficher"
+
+#: includes/widgets/class-flash-widget-testimonial.php:40
+msgid "Testimonial 1"
+msgstr "Témoignage 1"
+
+#: includes/widgets/class-flash-widget-testimonial.php:37
+msgid "Add New Testimonial"
+msgstr "Ajout de nouveau témoignage"
+
+#: includes/widgets/class-flash-widget-testimonial.php:36
+msgid "Brand Testimonial"
+msgstr "Témoignage de la marque"
+
+#: includes/widgets/class-flash-widget-testimonial.php:35
+msgid "Sortable Testimonials"
+msgstr "Témoignages triables"
+
+#: includes/widgets/class-flash-widget-testimonial.php:30
+msgid "FT: Testimonial"
+msgstr "FT : Témoignage"
+
+#: includes/widgets/class-flash-widget-testimonial.php:28
+msgid "Add your testimonial content here."
+msgstr "Ajoutez votre contenu de témoignage ici."
+
+#: includes/widgets/class-flash-widget-team.php:66
+msgid "Linkedin Profile Link"
+msgstr "Lien de profil LinkedIn"
+
+#: includes/widgets/class-flash-widget-team.php:61
+msgid "Twitter Profile Link"
+msgstr "Lien de profil Twitter"
+
+#: includes/widgets/class-flash-widget-team.php:56
+msgid "Facebook Profile Link"
+msgstr "Lien de profil Facebook"
+
+#: includes/widgets/class-flash-widget-team.php:51
+#: includes/widgets/class-flash-widget-testimonial.php:59
+#: includes/widgets/class-flash-widget-testimonial.php:60
+msgid "Designation"
+msgstr "Désignation"
+
+#: includes/widgets/class-flash-widget-team.php:36
+#: includes/widgets/class-flash-widget-testimonial.php:49
+#: includes/widgets/class-flash-widget-testimonial.php:50
+msgid "Name"
+msgstr "Nom"
+
+#: includes/widgets/class-flash-widget-team.php:30
+msgid "FT: Team"
+msgstr "FT : Équipe"
+
+#: includes/widgets/class-flash-widget-team.php:28
+msgid "Team Widget."
+msgstr "Widget d’équipe."
+
+#: includes/widgets/class-flash-widget-slider.php:104
+msgid "Check to make slide full screen."
+msgstr "Cochez pour que le panneau soit en plein écran"
+
+#: includes/widgets/class-flash-widget-slider.php:98
+msgid "Bottom Right Align"
+msgstr "Alignement en bas à droite"
+
+#: includes/widgets/class-flash-widget-slider.php:95
+msgid "Slider Controls Position"
+msgstr "Position des contrôles de diaporama"
+
+#: includes/widgets/class-flash-widget-slider.php:94
+msgid "slider-control-center"
+msgstr "diaporama-controle-centre"
+
+#: includes/widgets/class-flash-widget-slider.php:89
+msgid "Left Align"
+msgstr "Alignement gauche"
+
+#: includes/widgets/class-flash-widget-slider.php:88
+#: includes/widgets/class-flash-widget-slider.php:97
+msgid "Center Align"
+msgstr "Alignement centre"
+
+#: includes/widgets/class-flash-widget-slider.php:86
+msgid "Slider Content Alignment"
+msgstr "Alignement de contenu de diaporama"
+
+#: includes/widgets/class-flash-widget-slider.php:85
+msgid "slider-content-center"
+msgstr "diaporama-contenu-centre"
+
+#: includes/widgets/class-flash-widget-slider.php:80
+msgid "Light Color"
+msgstr "Couleur claire"
+
+#: includes/widgets/class-flash-widget-slider.php:79
+msgid "Dark Color"
+msgstr "Couleur sombre"
+
+#: includes/widgets/class-flash-widget-slider.php:77
+msgid "Slider Color Scheme"
+msgstr "Jeu de couleur de diaporama"
+
+#: includes/widgets/class-flash-widget-slider.php:69
+#: includes/widgets/class-flash-widget-slider.php:70
+msgid "Button Link"
+msgstr "Lien de bouton"
+
+#: includes/widgets/class-flash-widget-slider.php:64
+#: includes/widgets/class-flash-widget-slider.php:65
+msgid "Button Text"
+msgstr "Texte de bouton"
+
+#: includes/widgets/class-flash-widget-slider.php:40
+msgid "Slider 1"
+msgstr "Diaporama 1"
+
+#: includes/widgets/class-flash-widget-slider.php:37
+msgid "Add New Slider"
+msgstr "Ajout de nouveau diaporama"
+
+#: includes/widgets/class-flash-widget-slider.php:36
+msgid "Brand Slider"
+msgstr "Diaporama de marque"
+
+#: includes/widgets/class-flash-widget-slider.php:35
+msgid "Sortable Sliders"
+msgstr "Diaporamas triables"
+
+#: includes/widgets/class-flash-widget-slider.php:30
+msgid "FT: Slider"
+msgstr "FT : Diaporama"
+
+#: includes/widgets/class-flash-widget-slider.php:28
+msgid "Add your slider content here."
+msgstr "Ajoutez votre diaporama de contenu ici"
+
+#: includes/widgets/class-flash-widget-service.php:59
+msgid "Upload an Image"
+msgstr "Envoyer une Image"
+
+#: includes/widgets/class-flash-widget-service.php:45
+msgid "Image Uploader"
+msgstr "Envoi d’image"
+
+#: includes/widgets/class-flash-widget-service.php:44
+msgid "Icon Picker"
+msgstr "Choix d'icône"
+
+#: includes/widgets/class-flash-widget-service.php:42
+msgid "Icon Type"
+msgstr "Type d’icône"
+
+#: includes/widgets/class-flash-widget-service.php:30
+msgid "FT: Service"
+msgstr "FT : Service"
+
+#: includes/widgets/class-flash-widget-service.php:28
+msgid "Add your service here."
+msgstr "Ajoutez votre service ici."
+
+#: includes/widgets/class-flash-widget-portfolio.php:75
+msgid "4 Column"
+msgstr "4 colonnes"
+
+#: includes/widgets/class-flash-widget-portfolio.php:74
+msgid "3 Column"
+msgstr "3 colonnes"
+
+#: includes/widgets/class-flash-widget-portfolio.php:66
+#: includes/widgets/class-flash-widget-team.php:75
+msgid "Style 3"
+msgstr "Style 3"
+
+#: includes/widgets/class-flash-widget-portfolio.php:57
+msgid "Show navigation filter."
+msgstr "Afficher le filtre de navigation"
+
+#: includes/widgets/class-flash-widget-portfolio.php:41
+msgid "All category"
+msgstr "Toute catégorie"
+
+#: includes/widgets/class-flash-widget-portfolio.php:37
+msgid "Select Project Category"
+msgstr "Sélection de catégorie de projet"
+
+#: includes/widgets/class-flash-widget-portfolio.php:30
+msgid "FT: Portfolio"
+msgstr "FT : Portfolio"
+
+#: includes/widgets/class-flash-widget-portfolio.php:28
+msgid "Add your portfolio here."
+msgstr "Ajoutez votre portfolio."
+
+#: includes/widgets/class-flash-widget-logo.php:44
+msgid "Logo 2"
+msgstr "Logo 2"
+
+#: includes/widgets/class-flash-widget-logo.php:40
+msgid "Logo 1"
+msgstr "Logo 1"
+
+#: includes/widgets/class-flash-widget-logo.php:37
+msgid "Add New Logo"
+msgstr "Ajout de nouveau logo"
+
+#: includes/widgets/class-flash-widget-logo.php:36
+msgid "Brand Logo"
+msgstr "Logo de la marque"
+
+#: includes/widgets/class-flash-widget-logo.php:35
+msgid "Sortable Logos"
+msgstr "Logos triables"
+
+#: includes/widgets/class-flash-widget-logo.php:30
+msgid "FT: Logo"
+msgstr "FT : Logo"
+
+#: includes/widgets/class-flash-widget-logo.php:28
+msgid "Add your clients/brand logo images here."
+msgstr "Ajoutez les images de vos clients/marques ici."
+
+#: includes/widgets/class-flash-widget-image.php:41
+msgid "Image Link"
+msgstr "Lien d'image"
+
+#: includes/widgets/class-flash-widget-image.php:30
+msgid "FT: Image"
+msgstr "FT : Image"
+
+#: includes/widgets/class-flash-widget-image.php:28
+msgid "Add your advertisment image here."
+msgstr "Ajoutez votre image d’annonce ici.."
+
+#: includes/widgets/class-flash-widget-heading.php:41
+msgid "Sub Heading"
+msgstr "Sous-titre"
+
+#: includes/widgets/class-flash-widget-heading.php:36
+msgid "Heading"
+msgstr "Titre"
+
+#: includes/widgets/class-flash-widget-heading.php:30
+msgid "FT: Heading"
+msgstr "FT : Titre"
+
+#: includes/widgets/class-flash-widget-heading.php:28
+msgid "Add your heading here."
+msgstr "Ajoutez votre titre ici."
+
+#: includes/widgets/class-flash-widget-cta.php:61
+msgid "Call to Action Button 2 Link"
+msgstr "Lien de bouton d'appel d'action 2"
+
+#: includes/widgets/class-flash-widget-cta.php:56
+msgid "Call to Action Button 2 Text"
+msgstr "Texte de bouton d'appel d'action 2"
+
+#: includes/widgets/class-flash-widget-cta.php:51
+msgid "Call to Action Button 1 Link"
+msgstr "Lien de bouton d'appel d'action 1"
+
+#: includes/widgets/class-flash-widget-cta.php:46
+msgid "Call to Action Button 1 Text"
+msgstr "Texte de bouton d'appel d'action 1"
+
+#: includes/widgets/class-flash-widget-cta.php:41
+msgid "Call to Action Subtitle"
+msgstr "Sous-titre d’appel à action."
+
+#: includes/widgets/class-flash-widget-cta.php:36
+msgid "Call to action Title"
+msgstr "Titre d’appel à action"
+
+#: includes/widgets/class-flash-widget-cta.php:30
+msgid "FT: CTA"
+msgstr "FT: CTA"
+
+#: includes/widgets/class-flash-widget-cta.php:28
+msgid "CTA Widget."
+msgstr "Widget CTA."
+
+#: includes/widgets/class-flash-widget-counter.php:50
+#: includes/widgets/class-flash-widget-portfolio.php:51
+msgid "Number"
+msgstr "Nombre"
+
+#: includes/widgets/class-flash-widget-counter.php:41
+#: includes/widgets/class-flash-widget-service.php:52
+msgid "FontAwesome Icon"
+msgstr "Icône FontAwesome"
+
+#: includes/widgets/class-flash-widget-counter.php:30
+msgid "FT: Animated Number Counter"
+msgstr "FT : Compteur avec nombre animé"
+
+#: includes/widgets/class-flash-widget-counter.php:28
+msgid "Add your animated number counter here."
+msgstr "Ajoutez votre compteur avec nombre animé ici."
+
+#: includes/widgets/class-flash-widget-blog.php:66
+#: includes/widgets/class-flash-widget-counter.php:58
+#: includes/widgets/class-flash-widget-cta.php:69
+#: includes/widgets/class-flash-widget-portfolio.php:65
+#: includes/widgets/class-flash-widget-service.php:82
+#: includes/widgets/class-flash-widget-team.php:74
+msgid "Style 2"
+msgstr "Style 2"
+
+#: includes/widgets/class-flash-widget-blog.php:65
+#: includes/widgets/class-flash-widget-counter.php:57
+#: includes/widgets/class-flash-widget-cta.php:68
+#: includes/widgets/class-flash-widget-portfolio.php:64
+#: includes/widgets/class-flash-widget-service.php:81
+#: includes/widgets/class-flash-widget-team.php:73
+msgid "Style 1"
+msgstr "Style 1"
+
+#: includes/widgets/class-flash-widget-blog.php:63
+#: includes/widgets/class-flash-widget-counter.php:55
+#: includes/widgets/class-flash-widget-cta.php:66
+#: includes/widgets/class-flash-widget-portfolio.php:62
+#: includes/widgets/class-flash-widget-service.php:79
+#: includes/widgets/class-flash-widget-team.php:71
+msgid "Widget Style"
+msgstr "Style de widget"
+
+#: includes/widgets/class-flash-widget-blog.php:53
+msgid "Select Category"
+msgstr "Sélection de catégorie"
+
+#: includes/widgets/class-flash-widget-blog.php:47
+msgid "Specific Category"
+msgstr "Catégorie spécifique"
+
+#: includes/widgets/class-flash-widget-blog.php:46
+msgid "Latest Posts"
+msgstr "Derniers articles"
+
+#: includes/widgets/class-flash-widget-blog.php:44
+msgid "Blog Posts Source:"
+msgstr "Source des articles de blog :"
+
+#: includes/widgets/class-flash-widget-blog.php:39
+msgid "Number of Posts"
+msgstr "Nombre d’articles"
+
+#: includes/widgets/class-flash-widget-blog.php:30
+msgid "FT: Blog"
+msgstr "FT : Blog"
+
+#: includes/widgets/class-flash-widget-blog.php:28
+msgid "Blog Widget."
+msgstr "Widget de blog"
+
+#: includes/widgets/class-flash-widget-about.php:51
+#: includes/widgets/class-flash-widget-service.php:74
+msgid "Read More URL"
+msgstr "URL lire la suite"
+
+#: includes/widgets/class-flash-widget-about.php:46
+#: includes/widgets/class-flash-widget-service.php:69
+msgid "Read More Text"
+msgstr "Texte Lire la suite"
+
+#: includes/widgets/class-flash-widget-about.php:41
+#: includes/widgets/class-flash-widget-service.php:64
+msgid "Text"
+msgstr "Texte"
+
+#: includes/widgets/class-flash-widget-about.php:36
+#: includes/widgets/class-flash-widget-counter.php:36
+#: includes/widgets/class-flash-widget-logo.php:51
+#: includes/widgets/class-flash-widget-logo.php:52
+#: includes/widgets/class-flash-widget-service.php:36
+#: includes/widgets/class-flash-widget-slider.php:49
+#: includes/widgets/class-flash-widget-slider.php:50
+msgid "Title"
+msgstr "Titre"
+
+#: includes/widgets/class-flash-widget-about.php:30
+msgid "FT: About"
+msgstr "FT : À propos"
+
+#: includes/widgets/class-flash-widget-about.php:28
+msgid "About Widget."
+msgstr "Widget à propos"
+
+#: includes/libraries/wp-background-process.php:423
+msgid "Every %d Minutes"
+msgstr "Toutes les %d minutes"
+
+#: includes/functions-flash-widget.php:84
+msgid "Flash Toolkit Widgets"
+msgstr "Widgets Flash Toolkit"
+
+#: includes/functions-flash-portfolio.php:54
+msgctxt "slug"
+msgid "uncategorized"
+msgstr "non-classe"
+
+#: includes/functions-flash-core.php:903
+msgid "Youtube Square"
+msgstr "YouTube carré"
+
+#: includes/functions-flash-core.php:902
+msgid "Youtube Play"
+msgstr "Lecteur YouTube"
+
+#: includes/functions-flash-core.php:901
+msgid "Youtube"
+msgstr "Youtube"
+
+#: includes/functions-flash-core.php:900
+msgid "Yoast"
+msgstr "Yoast"
+
+#: includes/functions-flash-core.php:899
+msgid "Yen"
+msgstr "Yen"
+
+#: includes/functions-flash-core.php:898
+msgid "Yelp"
+msgstr "Yelp"
+
+#: includes/functions-flash-core.php:897
+msgid "Yc Square"
+msgstr "Yc carré"
+
+#: includes/functions-flash-core.php:896
+msgid "Yc"
+msgstr "Yc"
+
+#: includes/functions-flash-core.php:895
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: includes/functions-flash-core.php:894
+msgid "Y Combinator Square"
+msgstr "Combineur Y carré"
+
+#: includes/functions-flash-core.php:893
+msgid "Y Combinator"
+msgstr "Combineur Y"
+
+#: includes/functions-flash-core.php:892
+msgid "Xing Square"
+msgstr "Xing carré"
+
+#: includes/functions-flash-core.php:891
+msgid "Xing"
+msgstr "Xing"
+
+#: includes/functions-flash-core.php:890
+msgid "Wrench"
+msgstr "Clé à molette"
+
+#: includes/functions-flash-core.php:889
+msgid "Wpforms"
+msgstr "WPForms"
+
+#: includes/functions-flash-core.php:888
+msgid "Wpbeginner "
+msgstr "Wpbeginner "
+
+#: includes/functions-flash-core.php:887
+msgid "Wordpress"
+msgstr "WordPress"
+
+#: includes/functions-flash-core.php:886
+msgid "Won"
+msgstr "Won"
+
+#: includes/functions-flash-core.php:885
+msgid "Windows"
+msgstr "Windows"
+
+#: includes/functions-flash-core.php:884
+msgid "Wikipedia W"
+msgstr "Wikipedia W"
+
+#: includes/functions-flash-core.php:883
+msgid "Wifi"
+msgstr "Wi-fi"
+
+#: includes/functions-flash-core.php:882
+msgid "Wheelchair Alt"
+msgstr "Alt Wheelchair"
+
+#: includes/functions-flash-core.php:881
+msgid "Wheelchair"
+msgstr "Chaise roulante"
+
+#: includes/functions-flash-core.php:880
+msgid "Whatsapp"
+msgstr "Whatsapp"
+
+#: includes/functions-flash-core.php:879
+msgid "Weixin"
+msgstr "Weixin"
+
+#: includes/functions-flash-core.php:878
+msgid "Weibo"
+msgstr "Weibo"
+
+#: includes/functions-flash-core.php:877
+msgid "Wechat"
+msgstr "Wechat"
+
+#: includes/functions-flash-core.php:876
+msgid "Warning"
+msgstr "Avertissement"
+
+#: includes/functions-flash-core.php:875
+msgid "Volume Up"
+msgstr "Volume haut"
+
+#: includes/functions-flash-core.php:874
+msgid "Volume Off"
+msgstr "Volume éteint"
+
+#: includes/functions-flash-core.php:873
+msgid "Volume Down"
+msgstr "Volume bas"
+
+#: includes/functions-flash-core.php:872
+msgid "Volume Control Phone"
+msgstr "Contrôle de volume de téléphone"
+
+#: includes/functions-flash-core.php:871
+msgid "Vk"
+msgstr "VK"
+
+#: includes/functions-flash-core.php:870
+msgid "Vine"
+msgstr "Vine"
+
+#: includes/functions-flash-core.php:869
+msgid "Vimeo Square"
+msgstr "Vimeo carré"
+
+#: includes/functions-flash-core.php:868
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: includes/functions-flash-core.php:867
+msgid "Video Camera"
+msgstr "Caméra vidéo"
+
+#: includes/functions-flash-core.php:866
+msgid "Viadeo Square"
+msgstr "Viadeo carré"
+
+#: includes/functions-flash-core.php:865
+msgid "Viadeo"
+msgstr "Viadeo"
+
+#: includes/functions-flash-core.php:864
+msgid "Viacoin"
+msgstr "Viacoin"
+
+#: includes/functions-flash-core.php:863
+msgid "Venus Mars"
+msgstr "Vénus Mars"
+
+#: includes/functions-flash-core.php:862
+msgid "Venus Double"
+msgstr "Double Vénus"
+
+#: includes/functions-flash-core.php:861
+msgid "Venus"
+msgstr "Vénus"
+
+#: includes/functions-flash-core.php:860
+msgid "Users"
+msgstr "Utilisateurs"
+
+#: includes/functions-flash-core.php:859
+msgid "User Times"
+msgstr "Heures d’utilisateur"
+
+#: includes/functions-flash-core.php:858
+msgid "User Secret"
+msgstr "Utilisateur secret"
+
+#: includes/functions-flash-core.php:857
+msgid "User Plus"
+msgstr "Utilisateur plus"
+
+#: includes/functions-flash-core.php:856
+msgid "User Md"
+msgstr "Utilisateur Md"
+
+#: includes/functions-flash-core.php:855
+msgid "User"
+msgstr "Utilisateur"
+
+#: includes/functions-flash-core.php:854
+msgid "Usd"
+msgstr "Usd"
+
+#: includes/functions-flash-core.php:853
+msgid "Usb"
+msgstr "Usb"
+
+#: includes/functions-flash-core.php:852
+msgid "Upload"
+msgstr "Envoi"
+
+#: includes/functions-flash-core.php:851
+msgid "Unsorted"
+msgstr "Non trié"
+
+#: includes/functions-flash-core.php:850
+msgid "Unlock Alt"
+msgstr "Alt déverrouiller"
+
+#: includes/functions-flash-core.php:849
+msgid "Unlock"
+msgstr "Déverrouiller"
+
+#: includes/functions-flash-core.php:848
+msgid "Unlink"
+msgstr "Délier"
+
+#: includes/functions-flash-core.php:847
+msgid "University"
+msgstr "Université"
+
+#: includes/functions-flash-core.php:846
+msgid "Universal Access"
+msgstr "Accès universel"
+
+#: includes/functions-flash-core.php:845
+msgid "Undo"
+msgstr "Annuler"
+
+#: includes/functions-flash-core.php:844
+msgid "Underline"
+msgstr "Souligné"
+
+#: includes/functions-flash-core.php:843
+msgid "Umbrella"
+msgstr "Parapluie"
+
+#: includes/functions-flash-core.php:842
+msgid "Twitter Square"
+msgstr "Twitter carré"
+
+#: includes/functions-flash-core.php:841
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/functions-flash-core.php:840
+msgid "Twitch"
+msgstr "Twitch"
+
+#: includes/functions-flash-core.php:839
+msgid "Tv"
+msgstr "Tv"
+
+#: includes/functions-flash-core.php:838
+msgid "Turkish Lira"
+msgstr "Turkish Lira"
+
+#: includes/functions-flash-core.php:837
+msgid "Tumblr Square"
+msgstr "Tumblr carré"
+
+#: includes/functions-flash-core.php:836
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: includes/functions-flash-core.php:835
+msgid "Tty"
+msgstr "Tty"
+
+#: includes/functions-flash-core.php:834
+msgid "Try"
+msgstr "Essai"
+
+#: includes/functions-flash-core.php:833
+msgid "Truck"
+msgstr "Camion"
+
+#: includes/functions-flash-core.php:832
+msgid "Trophy"
+msgstr "Trophée"
+
+#: includes/functions-flash-core.php:831
+msgid "Tripadvisor"
+msgstr "TripAdvisor"
+
+#: includes/functions-flash-core.php:830
+msgid "Trello"
+msgstr "Trello"
+
+#: includes/functions-flash-core.php:829
+msgid "Tree"
+msgstr "Arbre"
+
+#: includes/functions-flash-core.php:828
+msgid "Trash O"
+msgstr "Corbeille O"
+
+#: includes/functions-flash-core.php:827
+msgid "Trash"
+msgstr "Corbeille"
+
+#: includes/functions-flash-core.php:826
+msgid "Transgender Alt"
+msgstr "Alt Transgender"
+
+#: includes/functions-flash-core.php:825
+msgid "Transgender"
+msgstr "Transgenre"
+
+#: includes/functions-flash-core.php:824
+msgid "Train"
+msgstr "Train"
+
+#: includes/functions-flash-core.php:823
+msgid "Trademark"
+msgstr "Trademark"
+
+#: includes/functions-flash-core.php:822
+msgid "Toggle Up"
+msgstr "Déplier haut"
+
+#: includes/functions-flash-core.php:821
+msgid "Toggle Right"
+msgstr "Déplier droite"
+
+#: includes/functions-flash-core.php:820
+msgid "Toggle On"
+msgstr "Toggle On"
+
+#: includes/functions-flash-core.php:819
+msgid "Toggle Off"
+msgstr "Toggle Off"
+
+#: includes/functions-flash-core.php:818
+msgid "Toggle Left"
+msgstr "Déplier gauche"
+
+#: includes/functions-flash-core.php:817
+msgid "Toggle Down"
+msgstr "Déplier bas"
+
+#: includes/functions-flash-core.php:816
+msgid "Tint"
+msgstr "Teinte"
+
+#: includes/functions-flash-core.php:815
+msgid "Times Circle O"
+msgstr "Heures cercle O"
+
+#: includes/functions-flash-core.php:814
+msgid "Times Circle"
+msgstr "Heures cercle"
+
+#: includes/functions-flash-core.php:813
+msgid "Times"
+msgstr "Heures"
+
+#: includes/functions-flash-core.php:812
+msgid "Ticket "
+msgstr "Billet"
+
+#: includes/functions-flash-core.php:811
+msgid "Thumbs Up"
+msgstr "Pouces haut"
+
+#: includes/functions-flash-core.php:810
+msgid "Thumbs O Up"
+msgstr "Pouces O haut"
+
+#: includes/functions-flash-core.php:809
+msgid "Thumbs O Down"
+msgstr "Pouces O bas"
+
+#: includes/functions-flash-core.php:808
+msgid "Thumbs Down"
+msgstr "Pouces bas"
+
+#: includes/functions-flash-core.php:807
+msgid "Thumb Tack"
+msgstr "Thumb Tack"
+
+#: includes/functions-flash-core.php:806
+msgid "Themeisle"
+msgstr "Themeisle"
+
+#: includes/functions-flash-core.php:805
+msgid "Th List"
+msgstr "Th Liste"
+
+#: includes/functions-flash-core.php:804
+msgid "Th Large"
+msgstr "Th Large"
+
+#: includes/functions-flash-core.php:803
+msgid "Th"
+msgstr "Th"
+
+#: includes/functions-flash-core.php:802
+msgid "Text Width"
+msgstr "Largeur de texte"
+
+#: includes/functions-flash-core.php:801
+msgid "Text Height"
+msgstr "Hauteur de texte"
+
+#: includes/functions-flash-core.php:800
+msgid "Terminal"
+msgstr "Terminal"
+
+#: includes/functions-flash-core.php:799
+msgid "Tencent Weibo "
+msgstr "Tencent Weibo"
+
+#: includes/functions-flash-core.php:798
+msgid "Television"
+msgstr "Télévision"
+
+#: includes/functions-flash-core.php:797
+msgid "Taxi"
+msgstr "Taxi"
+
+#: includes/functions-flash-core.php:796
+msgid "Tasks"
+msgstr "Tâches"
+
+#: includes/functions-flash-core.php:793
+msgid "Tachometer"
+msgstr "Tachomètre"
+
+#: includes/functions-flash-core.php:792
+msgid "Tablet"
+msgstr "Tablette"
+
+#: includes/functions-flash-core.php:791
+msgid "Table"
+msgstr "Tableau"
+
+#: includes/functions-flash-core.php:790
+msgid "Support"
+msgstr "Support"
+
+#: includes/functions-flash-core.php:789
+msgid "Superscript"
+msgstr "Superscript"
+
+#: includes/functions-flash-core.php:788
+msgid "Sun"
+msgstr "Dim"
+
+#: includes/functions-flash-core.php:787
+msgid "Suitcase"
+msgstr "Valise"
+
+#: includes/functions-flash-core.php:786
+msgid "Subway"
+msgstr "Métro"
+
+#: includes/functions-flash-core.php:785
+msgid "Subscript"
+msgstr "Subscript"
+
+#: includes/functions-flash-core.php:784
+msgid "Stumbleupon Circle"
+msgstr "StumbleUpon cercle"
+
+#: includes/functions-flash-core.php:783
+msgid "Stumbleupon"
+msgstr "Stumbleupon"
+
+#: includes/functions-flash-core.php:782
+msgid "Strikethrough"
+msgstr "Strikethrough"
+
+#: includes/functions-flash-core.php:781
+msgid "Street View"
+msgstr "Vue de rue"
+
+#: includes/functions-flash-core.php:780
+msgid "Stop Circle O"
+msgstr "Stop cercle O"
+
+#: includes/functions-flash-core.php:779
+msgid "Stop Circle"
+msgstr "Stop cercle"
+
+#: includes/functions-flash-core.php:778
+msgid "Stop"
+msgstr "Stop"
+
+#: includes/functions-flash-core.php:777
+msgid "Sticky Note O"
+msgstr "Note fixe O"
+
+#: includes/functions-flash-core.php:776
+msgid "Sticky Note"
+msgstr "Note fixe"
+
+#: includes/functions-flash-core.php:775
+msgid "Stethoscope"
+msgstr "Stéthoscope"
+
+#: includes/functions-flash-core.php:774
+msgid "Step Forward"
+msgstr "Avancer"
+
+#: includes/functions-flash-core.php:773
+msgid "Step Backward"
+msgstr "Retour en arrière"
+
+#: includes/functions-flash-core.php:772
+msgid "Steam Square"
+msgstr "Steam carré"
+
+#: includes/functions-flash-core.php:771
+msgid "Steam"
+msgstr "Steam"
+
+#: includes/functions-flash-core.php:770
+msgid "Star O"
+msgstr "Étoile O"
+
+#: includes/functions-flash-core.php:769
+msgid "Star Half Empty"
+msgstr "Étoile vide"
+
+#: includes/functions-flash-core.php:768
+msgid "Star Half"
+msgstr "Demi-étoile"
+
+#: includes/functions-flash-core.php:767
+msgid "Star"
+msgstr "Étoile"
+
+#: includes/functions-flash-core.php:766
+msgid "Stack Overflow"
+msgstr "Stack Overflow"
+
+#: includes/functions-flash-core.php:765
+msgid "Stack Exchange"
+msgstr "Stack Exchange"
+
+#: includes/functions-flash-core.php:764
+msgid "Square O"
+msgstr "Carré O"
+
+#: includes/functions-flash-core.php:763
+msgid "Square"
+msgstr "Carré"
+
+#: includes/functions-flash-core.php:762
+msgid "Spotify"
+msgstr "Spotify"
+
+#: includes/functions-flash-core.php:761
+msgid "Spoon"
+msgstr "Cuillère"
+
+#: includes/functions-flash-core.php:760
+msgid "Spinner"
+msgstr "Spinner"
+
+#: includes/functions-flash-core.php:759
+msgid "Space Shuttle"
+msgstr "Space Shuttle"
+
+#: includes/functions-flash-core.php:758
+msgid "Soundcloud"
+msgstr "SoundCloud"
+
+#: includes/functions-flash-core.php:757
+msgid "Sort Up"
+msgstr "Tri haut"
+
+#: includes/functions-flash-core.php:756
+msgid "Sort Numeric Desc"
+msgstr "Tri numérique desc"
+
+#: includes/functions-flash-core.php:755
+msgid "Sort Numeric Asc"
+msgstr "Tri numérique asc"
+
+#: includes/functions-flash-core.php:754
+msgid "Sort Down"
+msgstr "Tri bas"
+
+#: includes/functions-flash-core.php:753
+msgid "Sort Desc"
+msgstr "Tri desc"
+
+#: includes/functions-flash-core.php:752
+msgid "Sort Asc"
+msgstr "Tri asc"
+
+#: includes/functions-flash-core.php:751
+msgid "Sort Alpha desc"
+msgstr "Tri par alpha desc"
+
+#: includes/functions-flash-core.php:750
+msgid "Sort Alpha Asc"
+msgstr "Tri par alpha asc"
+
+#: includes/functions-flash-core.php:749
+msgid "Sort"
+msgstr "Trier"
+
+#: includes/functions-flash-core.php:748
+msgid "Soccer Ball"
+msgstr "Ballon de foot"
+
+#: includes/functions-flash-core.php:747
+msgid "Snapchat Square"
+msgstr "Snapchat carré"
+
+#: includes/functions-flash-core.php:746
+msgid "Snapchat Ghost"
+msgstr "Snapchat fantôme"
+
+#: includes/functions-flash-core.php:745
+msgid "Snapchat"
+msgstr "Snapchat"
+
+#: includes/functions-flash-core.php:744
+msgid "Smile O"
+msgstr "Smile O"
+
+#: includes/functions-flash-core.php:743
+msgid "Slideshare"
+msgstr "SlideShare"
+
+#: includes/functions-flash-core.php:742
+msgid "Sliders"
+msgstr "Diaporamas"
+
+#: includes/functions-flash-core.php:741
+msgid "Slack"
+msgstr "Slack"
+
+#: includes/functions-flash-core.php:740
+msgid "Skype"
+msgstr "Skype"
+
+#: includes/functions-flash-core.php:739
+msgid "Skyatlas"
+msgstr "Skyatlas"
+
+#: includes/functions-flash-core.php:738
+msgid "Sitemap"
+msgstr "Plan du site"
+
+#: includes/functions-flash-core.php:737
+msgid "Simplybuilt"
+msgstr "Simplybuilt"
+
+#: includes/functions-flash-core.php:736
+msgid "Signal"
+msgstr "Signal"
+
+#: includes/functions-flash-core.php:735
+msgid "Sign Out"
+msgstr "Déconnexion"
+
+#: includes/functions-flash-core.php:734
+msgid "Sign In"
+msgstr "Inscription"
+
+#: includes/functions-flash-core.php:733
+msgid "Shopping Cart"
+msgstr "Panier d'achat"
+
+#: includes/functions-flash-core.php:732
+msgid "Shopping Basket"
+msgstr "Chariot d’achat"
+
+#: includes/functions-flash-core.php:731
+msgid "Shopping Bag"
+msgstr "Sac d’achat"
+
+#: includes/functions-flash-core.php:730
+msgid "Shirtsinbulk"
+msgstr "Shirtsinbulk"
+
+#: includes/functions-flash-core.php:729
+msgid "Ship"
+msgstr "Expédier"
+
+#: includes/functions-flash-core.php:728
+msgid "Shield"
+msgstr "Bouclier"
+
+#: includes/functions-flash-core.php:727
+msgid "Sheqel"
+msgstr "Sheqel"
+
+#: includes/functions-flash-core.php:726
+msgid "Shekel"
+msgstr "Shekel"
+
+#: includes/functions-flash-core.php:725
+msgid "Share Square O"
+msgstr "Partage carré O"
+
+#: includes/functions-flash-core.php:724
+msgid "Share Alt Square"
+msgstr "Alt de partage carré"
+
+#: includes/functions-flash-core.php:723
+msgid "Share Alt"
+msgstr "Alt de partage"
+
+#: includes/functions-flash-core.php:722
+msgid "Share"
+msgstr "Partager"
+
+#: includes/functions-flash-core.php:721
+msgid "Server"
+msgstr "Serveur"
+
+#: includes/functions-flash-core.php:720
+msgid "Send O"
+msgstr "Envoyer O"
+
+#: includes/functions-flash-core.php:719
+msgid "Send"
+msgstr "Envoyer"
+
+#: includes/functions-flash-core.php:718
+msgid "Sellsy"
+msgstr "Sellsy"
+
+#: includes/functions-flash-core.php:717
+msgid "Search Plus"
+msgstr "Recherche de plus"
+
+#: includes/functions-flash-core.php:716
+msgid "Search Minus"
+msgstr "Recherche de moins"
+
+#: includes/functions-flash-core.php:715
+msgid "Search"
+msgstr "Rechercher"
+
+#: includes/functions-flash-core.php:714
+msgid "Scribd"
+msgstr "Scribd"
+
+#: includes/functions-flash-core.php:713
+msgid "Scissors"
+msgstr "Ciseaux"
+
+#: includes/functions-flash-core.php:712
+msgid "Save"
+msgstr "Enregistrer"
+
+#: includes/functions-flash-core.php:711
+msgid "Safari"
+msgstr "Safari"
+
+#: includes/functions-flash-core.php:710
+msgid "Rupee"
+msgstr "Roupie"
+
+#: includes/functions-flash-core.php:709
+msgid "Rss Square"
+msgstr "Rss carré"
+
+#: includes/functions-flash-core.php:708
+msgid "Rss"
+msgstr "Rss"
+
+#: includes/functions-flash-core.php:707
+msgid "Rouble"
+msgstr "Rouble"
+
+#: includes/functions-flash-core.php:706
+msgid "Rotate Right"
+msgstr "Rotation à droite"
+
+#: includes/functions-flash-core.php:705
+msgid "Rotate Left"
+msgstr "Rotation à gauche"
+
+#: includes/functions-flash-core.php:704
+msgid "rocket"
+msgstr "fusée"
+
+#: includes/functions-flash-core.php:703
+msgid "Road"
+msgstr "Route"
+
+#: includes/functions-flash-core.php:702
+msgid "Rmb"
+msgstr "Rmb"
+
+#: includes/functions-flash-core.php:701
+msgid "Retweet"
+msgstr "Retweeter"
+
+#: includes/functions-flash-core.php:700
+msgid "Reply All"
+msgstr "Répondre à tous"
+
+#: includes/functions-flash-core.php:699
+msgid "Reply"
+msgstr "Répondre"
+
+#: includes/functions-flash-core.php:698
+msgid "Repeat"
+msgstr "Répéter"
+
+#: includes/functions-flash-core.php:697
+msgid "Reorder"
+msgstr "Réorganiser"
+
+#: includes/functions-flash-core.php:696
+msgid "Renren"
+msgstr "Renren"
+
+#: includes/functions-flash-core.php:695
+msgid "Remove"
+msgstr "Supprimer"
+
+#: includes/functions-flash-core.php:694
+msgid "Registered"
+msgstr "Enregistré"
+
+#: includes/functions-flash-core.php:693
+msgid "Refresh"
+msgstr "Rafraîchir"
+
+#: includes/functions-flash-core.php:692
+msgid "Reddit Square"
+msgstr "Reddit carré"
+
+#: includes/functions-flash-core.php:691
+msgid "Reddit Alien"
+msgstr "Reddit Alien"
+
+#: includes/functions-flash-core.php:690
+msgid "Reddit"
+msgstr "Reddit"
+
+#: includes/functions-flash-core.php:689
+msgid "Recycle"
+msgstr "Recyclage"
+
+#: includes/functions-flash-core.php:688
+msgid "Rebel"
+msgstr "Rebelle"
+
+#: includes/functions-flash-core.php:687
+msgid "Random"
+msgstr "Aléatoire"
+
+#: includes/functions-flash-core.php:686
+msgid "Ra"
+msgstr "Ra"
+
+#: includes/functions-flash-core.php:685
+msgid "Quote Right"
+msgstr "Citation droite"
+
+#: includes/functions-flash-core.php:684
+msgid "Quote Left"
+msgstr "Citation gauche"
+
+#: includes/functions-flash-core.php:683
+msgid "Question Circle O"
+msgstr "Question cercle O"
+
+#: includes/functions-flash-core.php:682
+msgid "Question Ciecle"
+msgstr "Question cercle"
+
+#: includes/functions-flash-core.php:681
+msgid "Question"
+msgstr "Question"
+
+#: includes/functions-flash-core.php:680
+msgid "Qrcode"
+msgstr "Qrcode"
+
+#: includes/functions-flash-core.php:679
+msgid "Qq"
+msgstr "Qq"
+
+#: includes/functions-flash-core.php:678
+msgid "Puzzle Piece"
+msgstr "Pièce de puzzle"
+
+#: includes/functions-flash-core.php:677
+msgid "Peoduct Hunt"
+msgstr "Product Hunt"
+
+#: includes/functions-flash-core.php:676
+msgid "Print"
+msgstr "Imprimer"
+
+#: includes/functions-flash-core.php:675
+msgid "Power Off"
+msgstr "Exctinction"
+
+#: includes/functions-flash-core.php:674
+msgid "Plus Square O"
+msgstr "Plus carré O"
+
+#: includes/functions-flash-core.php:673
+msgid "Plus Square"
+msgstr "Plus carré"
+
+#: includes/functions-flash-core.php:672
+msgid "Plus Circle"
+msgstr "Plus cercle"
+
+#: includes/functions-flash-core.php:671
+msgid "Plus"
+msgstr "Plus"
+
+#: includes/functions-flash-core.php:670
+msgid "Plug"
+msgstr "Prise"
+
+#: includes/functions-flash-core.php:669
+msgid "Play Circle O"
+msgstr "Jouer cercle O"
+
+#: includes/functions-flash-core.php:668
+msgid "Play Circle"
+msgstr "Jouer cercle"
+
+#: includes/functions-flash-core.php:667
+msgid "Play"
+msgstr "Jouer"
+
+#: includes/functions-flash-core.php:666
+msgid "Plane"
+msgstr "Avion"
+
+#: includes/functions-flash-core.php:665
+msgid "Pinterest Square"
+msgstr "Pinterest carré"
+
+#: includes/functions-flash-core.php:664
+msgid "Pinterest P"
+msgstr "Pinterest P"
+
+#: includes/functions-flash-core.php:663
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: includes/functions-flash-core.php:662
+msgid "Pied Piper Pp"
+msgstr "Joueur de flute Pp"
+
+#: includes/functions-flash-core.php:661
+msgid "Pied Piper Alt"
+msgstr "Alt joueur de flute"
+
+#: includes/functions-flash-core.php:660
+msgid "Pied Piper"
+msgstr "Joueur de flute"
+
+#: includes/functions-flash-core.php:659
+msgid "Pie Chart"
+msgstr "Diagramme"
+
+#: includes/functions-flash-core.php:658
+msgid "Picture O"
+msgstr "Photo O"
+
+#: includes/functions-flash-core.php:657
+msgid "Photo"
+msgstr "Photo"
+
+#: includes/functions-flash-core.php:656
+msgid "Phone Square"
+msgstr "Téléphone carré"
+
+#: includes/functions-flash-core.php:655
+msgid "Phone"
+msgstr "Téléphone"
+
+#: includes/functions-flash-core.php:654
+msgid "Percent"
+msgstr "Pourcentage"
+
+#: includes/functions-flash-core.php:653
+msgid "Pencil Square O"
+msgstr "Stylo carré O"
+
+#: includes/functions-flash-core.php:651
+msgid "Pencil Square"
+msgstr "Stylo carré"
+
+#: includes/functions-flash-core.php:650 includes/functions-flash-core.php:652
+msgid "Paypal"
+msgstr "Paypal"
+
+#: includes/functions-flash-core.php:649
+msgid "Paw"
+msgstr "Paw"
+
+#: includes/functions-flash-core.php:648
+msgid "Paush Circle O"
+msgstr "Paush Cercle O"
+
+#: includes/functions-flash-core.php:647
+msgid "Paush Circle"
+msgstr "Paush Cercle"
+
+#: includes/functions-flash-core.php:646
+msgid "Paush"
+msgstr "Paush"
+
+#: includes/functions-flash-core.php:645
+msgid "Paste"
+msgstr "Coller"
+
+#: includes/functions-flash-core.php:644
+msgid "Paragraph"
+msgstr "Paragraphe"
+
+#: includes/functions-flash-core.php:643
+msgid "Paperclip"
+msgstr "Paperclip"
+
+#: includes/functions-flash-core.php:642
+msgid "Paper plane O"
+msgstr "Avion de papier O"
+
+#: includes/functions-flash-core.php:641
+msgid "Paper plane"
+msgstr "Avion de papier"
+
+#: includes/functions-flash-core.php:640
+msgid "Paint brush"
+msgstr "Pinceau"
+
+#: includes/functions-flash-core.php:639
+msgid "Pagelines"
+msgstr "Pagelines"
+
+#: includes/functions-flash-core.php:638
+msgid "Outdent"
+msgstr "Outdent"
+
+#: includes/functions-flash-core.php:637
+msgid "Option monster"
+msgstr "Option monster"
+
+#: includes/functions-flash-core.php:636
+msgid "Opera"
+msgstr "Opera"
+
+#: includes/functions-flash-core.php:635
+msgid "Openid"
+msgstr "Openid"
+
+#: includes/functions-flash-core.php:634
+msgid "Opencart"
+msgstr "Opencart"
+
+#: includes/functions-flash-core.php:633
+msgid "Odnoklassniki Square"
+msgstr "Odnoklassniki carré"
+
+#: includes/functions-flash-core.php:632
+msgid "Odnoklassniki"
+msgstr "Odnoklassniki"
+
+#: includes/functions-flash-core.php:631
+msgid "Object ungroup"
+msgstr "Dégrouper objet"
+
+#: includes/functions-flash-core.php:630
+msgid "Object group"
+msgstr "Grouper objet"
+
+#: includes/functions-flash-core.php:629
+msgid "Newspaper O"
+msgstr "Journal O"
+
+#: includes/functions-flash-core.php:628
+msgid "Neuter"
+msgstr "Neutre"
+
+#: includes/functions-flash-core.php:627
+msgid "Navicon"
+msgstr "Navicon"
+
+#: includes/functions-flash-core.php:626
+msgid "Music"
+msgstr "Musique"
+
+#: includes/functions-flash-core.php:625
+msgid "Mouse Pointer"
+msgstr "Pointeur de souris"
+
+#: includes/functions-flash-core.php:624
+msgid "Motorcycle"
+msgstr "Moto"
+
+#: includes/functions-flash-core.php:623
+msgid "Mortar Board"
+msgstr "Tableau de mortier"
+
+#: includes/functions-flash-core.php:622
+msgid "Moon O"
+msgstr "Lune O"
+
+#: includes/functions-flash-core.php:621
+msgid "Money"
+msgstr "Argent"
+
+#: includes/functions-flash-core.php:620
+msgid "Modex"
+msgstr "Modex"
+
+#: includes/functions-flash-core.php:619
+msgid "Mobile"
+msgstr "Mobile"
+
+#: includes/functions-flash-core.php:618
+msgid "Mixcloud"
+msgstr "Mixcloud"
+
+#: includes/functions-flash-core.php:617
+msgid "Minus Square O"
+msgstr "Carré moins O"
+
+#: includes/functions-flash-core.php:616
+msgid "Minus Square"
+msgstr "Carré moins"
+
+#: includes/functions-flash-core.php:615
+msgid "Minus Circle"
+msgstr "Cercle moins"
+
+#: includes/functions-flash-core.php:614
+msgid "Minus"
+msgstr "Moins"
+
+#: includes/functions-flash-core.php:613
+msgid "Microphone Slash"
+msgstr "Microphone barré"
+
+#: includes/functions-flash-core.php:612
+msgid "Microphone"
+msgstr "Microphone"
+
+#: includes/functions-flash-core.php:611
+msgid "Mercury"
+msgstr "Mercure"
+
+#: includes/functions-flash-core.php:610
+msgid "Meh"
+msgstr "Meh"
+
+#: includes/functions-flash-core.php:609
+msgid "Medkit"
+msgstr "Trousse de secours"
+
+#: includes/functions-flash-core.php:608
+msgid "Medium"
+msgstr "Moyen"
+
+#: includes/functions-flash-core.php:607
+msgid "Meanpath"
+msgstr "Meanpath"
+
+#: includes/functions-flash-core.php:606
+msgid "Maxcdn"
+msgstr "Maxcdn"
+
+#: includes/functions-flash-core.php:605
+msgid "Mars Stroke V"
+msgstr "Trait de Mars V"
+
+#: includes/functions-flash-core.php:604
+msgid "Mars Stroke H"
+msgstr "Trait  de Mars H"
+
+#: includes/functions-flash-core.php:603
+msgid "Mars Stroke"
+msgstr "Trait de Mars"
+
+#: includes/functions-flash-core.php:602
+msgid "Mars Double"
+msgstr "Double Mars"
+
+#: includes/functions-flash-core.php:601
+msgid "Mars"
+msgstr "Mars"
+
+#: includes/functions-flash-core.php:600
+msgid "Map Signs"
+msgstr "Signes de carte"
+
+#: includes/functions-flash-core.php:599
+msgid "Map Pin"
+msgstr "Épingle de carte"
+
+#: includes/functions-flash-core.php:598
+msgid "Map O"
+msgstr "Carte O"
+
+#: includes/functions-flash-core.php:597
+msgid "Map Marker"
+msgstr "Marqueur de carte"
+
+#: includes/functions-flash-core.php:596
+msgid "Map"
+msgstr "Carte"
+
+#: includes/functions-flash-core.php:595
+msgid "Male"
+msgstr "Mâle"
+
+#: includes/functions-flash-core.php:594
+msgid "Mail Reply All"
+msgstr "Réponse de mail à tous"
+
+#: includes/functions-flash-core.php:593
+msgid "Mail Reply"
+msgstr "Réponse de mail"
+
+#: includes/functions-flash-core.php:592
+msgid "Mail Forward"
+msgstr "Transfert de mail"
+
+#: includes/functions-flash-core.php:591
+msgid "Magnet"
+msgstr "Aimant"
+
+#: includes/functions-flash-core.php:590
+msgid "Magic"
+msgstr "Magique"
+
+#: includes/functions-flash-core.php:589
+msgid "Low Vision"
+msgstr "Vision faible"
+
+#: includes/functions-flash-core.php:588
+msgid "Long Arrow Up"
+msgstr "Longue flèche haut"
+
+#: includes/functions-flash-core.php:587
+msgid "Long Arrow Right"
+msgstr "Longue flèche droite"
+
+#: includes/functions-flash-core.php:586
+msgid "Long Arrow Left"
+msgstr "Longue flèche gauche"
+
+#: includes/functions-flash-core.php:585
+msgid "Long Arrow Down"
+msgstr "Longue flèche bas"
+
+#: includes/functions-flash-core.php:584
+msgid "Lock"
+msgstr "Vérouiller"
+
+#: includes/functions-flash-core.php:583
+msgid "Location Arrow"
+msgstr "Flèche de localisation"
+
+#: includes/functions-flash-core.php:582
+msgid "List Ul"
+msgstr "Liste Ul"
+
+#: includes/functions-flash-core.php:581
+msgid "List Ol"
+msgstr "Liste Ol"
+
+#: includes/functions-flash-core.php:580
+msgid "List Alt"
+msgstr "Alt de liste"
+
+#: includes/functions-flash-core.php:579
+msgid "List"
+msgstr "Liste"
+
+#: includes/functions-flash-core.php:578
+msgid "Linux"
+msgstr "Linux"
+
+#: includes/functions-flash-core.php:577
+msgid "Linkedin Square"
+msgstr "LinkedIn carré"
+
+#: includes/functions-flash-core.php:576
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: includes/functions-flash-core.php:575
+msgid "Link"
+msgstr "Lien"
+
+#: includes/functions-flash-core.php:574
+msgid "Line Chart"
+msgstr "Diagramme"
+
+#: includes/functions-flash-core.php:573
+msgid "Lightbulb O"
+msgstr "Lightbulb O"
+
+#: includes/functions-flash-core.php:572
+msgid "Life Saver"
+msgstr "Sauveteur"
+
+#: includes/functions-flash-core.php:571
+msgid "Life Ring"
+msgstr "Bouée de sauvetage"
+
+#: includes/functions-flash-core.php:570
+msgid "Life Buoy"
+msgstr "Bouée"
+
+#: includes/functions-flash-core.php:569
+msgid "Life Bouy"
+msgstr "Bouée"
+
+#: includes/functions-flash-core.php:568
+msgid "Level Up"
+msgstr "Niveau haut"
+
+#: includes/functions-flash-core.php:567
+msgid "Level Down"
+msgstr "Niveau bas"
+
+#: includes/functions-flash-core.php:566
+msgid "Lemon O"
+msgstr "Citron O"
+
+#: includes/functions-flash-core.php:565
+msgid "Legal"
+msgstr "Légal"
+
+#: includes/functions-flash-core.php:564
+msgid "Leanpub"
+msgstr "Livret"
+
+#: includes/functions-flash-core.php:563
+msgid "Leaf"
+msgstr "Feuille"
+
+#: includes/functions-flash-core.php:562
+msgid "Lastfm Square"
+msgstr "Lastfm carré"
+
+#: includes/functions-flash-core.php:561
+msgid "Lastfm"
+msgstr "Lastfm"
+
+#: includes/functions-flash-core.php:560
+msgid "Laptop"
+msgstr "Laptop"
+
+#: includes/functions-flash-core.php:559
+msgid "Language"
+msgstr "Langue"
+
+#: includes/functions-flash-core.php:558
+msgid "Krw"
+msgstr "Krw"
+
+#: includes/functions-flash-core.php:557
+msgid "Keyboard O"
+msgstr "Clavier O"
+
+#: includes/functions-flash-core.php:556
+msgid "Key"
+msgstr "Clé"
+
+#: includes/functions-flash-core.php:555
+msgid "Jsfiddle"
+msgstr "JSFiddle"
+
+#: includes/functions-flash-core.php:554
+msgid "Jpy"
+msgstr "Jpy"
+
+#: includes/functions-flash-core.php:553
+msgid "Joomla"
+msgstr "Joomla"
+
+#: includes/functions-flash-core.php:552
+msgid "Italic"
+msgstr "Italiquqe"
+
+#: includes/functions-flash-core.php:551
+msgid "Ioxhost"
+msgstr "Ioxhost"
+
+#: includes/functions-flash-core.php:550
+msgid "Intersex"
+msgstr "Unisexe"
+
+#: includes/functions-flash-core.php:549
+msgid "Internet Explorer"
+msgstr "Internet Explorer"
+
+#: includes/functions-flash-core.php:548
+msgid "Institution"
+msgstr "Institution"
+
+#: includes/functions-flash-core.php:547
+msgid "Instagram"
+msgstr "Instagram"
+
+#: includes/functions-flash-core.php:546
+msgid "Inr"
+msgstr "Inr"
+
+#: includes/functions-flash-core.php:545
+msgid "Info Circle"
+msgstr "Info cercle"
+
+#: includes/functions-flash-core.php:544
+msgid "Info"
+msgstr "Info"
+
+#: includes/functions-flash-core.php:543
+msgid "Industry"
+msgstr "Industrie"
+
+#: includes/functions-flash-core.php:542
+msgid "Indent"
+msgstr "Indent"
+
+#: includes/functions-flash-core.php:541
+msgid "Inbox"
+msgstr "Boîte aux lettres"
+
+#: includes/functions-flash-core.php:540
+#: includes/widgets/class-flash-widget-about.php:57
+#: includes/widgets/class-flash-widget-image.php:36
+#: includes/widgets/class-flash-widget-logo.php:57
+#: includes/widgets/class-flash-widget-slider.php:60
+#: includes/widgets/class-flash-widget-team.php:41
+#: includes/widgets/class-flash-widget-testimonial.php:55
+msgid "Image"
+msgstr "Image"
+
+#: includes/functions-flash-core.php:539
+msgid "Ils"
+msgstr "Ils"
+
+#: includes/functions-flash-core.php:538
+msgid "I Cursor"
+msgstr "I Curseur"
+
+#: includes/functions-flash-core.php:537
+msgid "Html5"
+msgstr "Html5"
+
+#: includes/functions-flash-core.php:536
+msgid "Houzz"
+msgstr "Houzz"
+
+#: includes/functions-flash-core.php:535
+msgid "Hourglass Start"
+msgstr "Début de sablier"
+
+#: includes/functions-flash-core.php:534
+msgid "Hourglass O"
+msgstr "Sablier O"
+
+#: includes/functions-flash-core.php:533
+msgid "Hourglass Half"
+msgstr "Sablier à moitié"
+
+#: includes/functions-flash-core.php:532
+msgid "Hourglass End"
+msgstr "Fin de sablier"
+
+#: includes/functions-flash-core.php:531
+msgid "Hourglass 3"
+msgstr "Sablier 3"
+
+#: includes/functions-flash-core.php:530
+msgid "Hourglass 2"
+msgstr "Sablier 2"
+
+#: includes/functions-flash-core.php:529
+msgid "Hourglass 1"
+msgstr "Sablier 1"
+
+#: includes/functions-flash-core.php:528
+msgid "Hourglass"
+msgstr "Sablier"
+
+#: includes/functions-flash-core.php:527
+msgid "Hotel"
+msgstr "Hôtel"
+
+#: includes/functions-flash-core.php:526
+msgid "Hospital-o"
+msgstr "Hôpital-o"
+
+#: includes/functions-flash-core.php:525
+msgid "Home"
+msgstr "Acceuil"
+
+#: includes/functions-flash-core.php:524
+msgid "History"
+msgstr "Historique"
+
+#: includes/functions-flash-core.php:523
+msgid "Heartbeat"
+msgstr "Cœur battant"
+
+#: includes/functions-flash-core.php:522
+msgid "Heart O"
+msgstr "Cœur O"
+
+#: includes/functions-flash-core.php:521
+msgid "Heart"
+msgstr "Cœur"
+
+#: includes/functions-flash-core.php:520
+msgid "Headphones"
+msgstr "Écouteurs"
+
+#: includes/functions-flash-core.php:519
+msgid "Header"
+msgstr "En-tête"
+
+#: includes/functions-flash-core.php:518
+msgid "Hdd O"
+msgstr "Hdd O"
+
+#: includes/functions-flash-core.php:517
+msgid "Hashtag"
+msgstr "Hashtag"
+
+#: includes/functions-flash-core.php:516
+msgid "Hard Of Hearing"
+msgstr "Malentendants"
+
+#: includes/functions-flash-core.php:515
+msgid "Hand Stop O"
+msgstr "Mais stop O"
+
+#: includes/functions-flash-core.php:514
+msgid "Hand Spock O"
+msgstr "Main de Spock O"
+
+#: includes/functions-flash-core.php:513
+msgid "Hand Scissors O"
+msgstr "Ciseaux à main O"
+
+#: includes/functions-flash-core.php:512
+msgid "Hand Rock O"
+msgstr "Main pierre O"
+
+#: includes/functions-flash-core.php:511
+msgid "Hand Pointer O"
+msgstr "Main pointeur O"
+
+#: includes/functions-flash-core.php:510
+msgid "Hand Peace O"
+msgstr "Main paix O"
+
+#: includes/functions-flash-core.php:509
+msgid "Hand Paper O"
+msgstr "Main papier O"
+
+#: includes/functions-flash-core.php:508
+msgid "Hand O Up"
+msgstr "Main O haut"
+
+#: includes/functions-flash-core.php:507
+msgid "Hand O Right"
+msgstr "Main O droite"
+
+#: includes/functions-flash-core.php:506
+msgid "Hand O Left"
+msgstr "Main O gauche"
+
+#: includes/functions-flash-core.php:505
+msgid "Hand O Down"
+msgstr "Main O bas"
+
+#: includes/functions-flash-core.php:504
+msgid "Hand Lizard O"
+msgstr "Hand Lizard O"
+
+#: includes/functions-flash-core.php:503
+msgid "Hand Grab O"
+msgstr "Hand Grab O"
+
+#: includes/functions-flash-core.php:502
+msgid "Hacker News"
+msgstr "Hacker News"
+
+#: includes/functions-flash-core.php:501
+msgid "H Square"
+msgstr "Carré H"
+
+#: includes/functions-flash-core.php:500
+msgid "Group"
+msgstr "Groupe"
+
+#: includes/functions-flash-core.php:499
+msgid "Gratipay"
+msgstr "Gratipay"
+
+#: includes/functions-flash-core.php:498
+msgid "Graduation Cap"
+msgstr "Chapeau diplomé"
+
+#: includes/functions-flash-core.php:497
+msgid "Google Wallet"
+msgstr "Portefeuille Google"
+
+#: includes/functions-flash-core.php:496
+msgid "Google Plus Square"
+msgstr "Google Plus carré"
+
+#: includes/functions-flash-core.php:495
+msgid "Google Plus Official"
+msgstr "Google Plus Officiel"
+
+#: includes/functions-flash-core.php:494
+msgid "Google Plus Circle"
+msgstr "Google Plus Circle"
+
+#: includes/functions-flash-core.php:493
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: includes/functions-flash-core.php:492
+msgid "Google"
+msgstr "Google"
+
+#: includes/functions-flash-core.php:491
+msgid "Globe"
+msgstr "Globe"
+
+#: includes/functions-flash-core.php:490
+msgid "Glide G"
+msgstr "Glide G"
+
+#: includes/functions-flash-core.php:489
+msgid "Glide"
+msgstr "Glide"
+
+#: includes/functions-flash-core.php:488
+msgid "Glass"
+msgstr "Verre"
+
+#: includes/functions-flash-core.php:487
+msgid "Gittip"
+msgstr "Gittip"
+
+#: includes/functions-flash-core.php:486
+msgid "Gitlab"
+msgstr "Gitlab"
+
+#: includes/functions-flash-core.php:485
+msgid "Github Square"
+msgstr "GitHub carré"
+
+#: includes/functions-flash-core.php:484
+msgid "Github Alt"
+msgstr "Alt GitHub"
+
+#: includes/functions-flash-core.php:483
+msgid "Github"
+msgstr "Github"
+
+#: includes/functions-flash-core.php:482
+msgid "Git Square"
+msgstr "Git carré"
+
+#: includes/functions-flash-core.php:481
+msgid "Git"
+msgstr "Git"
+
+#: includes/functions-flash-core.php:480
+msgid "Gift"
+msgstr "Cadeau"
+
+#: includes/functions-flash-core.php:479
+msgid "Gg Circle"
+msgstr "Cercle Gg"
+
+#: includes/functions-flash-core.php:478
+msgid "Gg"
+msgstr "Gg"
+
+#: includes/functions-flash-core.php:477
+msgid "Get Pocket"
+msgstr "Obtenez Pocket"
+
+#: includes/functions-flash-core.php:476
+msgid "Genderless"
+msgstr "Unigenre"
+
+#: includes/functions-flash-core.php:475
+msgid "Gears"
+msgstr "Pneus"
+
+#: includes/functions-flash-core.php:474
+msgid "Gear"
+msgstr "Pneu"
+
+#: includes/functions-flash-core.php:473
+msgid "Ge"
+msgstr "Ge"
+
+#: includes/functions-flash-core.php:472
+msgid "Gbp"
+msgstr "Livre Sterling"
+
+#: includes/functions-flash-core.php:471
+msgid "Gavel"
+msgstr "Maillet"
+
+#: includes/functions-flash-core.php:470
+msgid "Gamepad"
+msgstr "Manette de jeu"
+
+#: includes/functions-flash-core.php:469
+msgid "Futbol O"
+msgstr "Futbol O"
+
+#: includes/functions-flash-core.php:468
+msgid "Frown O"
+msgstr "Frown O"
+
+#: includes/functions-flash-core.php:467
+msgid "Foursquare"
+msgstr "Foursquare"
+
+#: includes/functions-flash-core.php:466
+msgid "Forward"
+msgstr "Avancer"
+
+#: includes/functions-flash-core.php:465
+msgid "Forumbee"
+msgstr "Forumbee"
+
+#: includes/functions-flash-core.php:464
+msgid "Fort Awesome"
+msgstr "Font Awesome"
+
+#: includes/functions-flash-core.php:463
+msgid "Fonticons"
+msgstr "Fonticons"
+
+#: includes/functions-flash-core.php:462
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: includes/functions-flash-core.php:461
+msgid "Font"
+msgstr "Police"
+
+#: includes/functions-flash-core.php:460
+msgid "Folder Open O"
+msgstr "Répertoire ouvert O"
+
+#: includes/functions-flash-core.php:459
+msgid "Folder Open"
+msgstr "Répertoire ouvert"
+
+#: includes/functions-flash-core.php:458
+msgid "Folder O"
+msgstr "Répertoire O"
+
+#: includes/functions-flash-core.php:457
+msgid "Folder"
+msgstr "Répertoire"
+
+#: includes/functions-flash-core.php:456
+msgid "Floppy O"
+msgstr "Disquette O"
+
+#: includes/functions-flash-core.php:455
+msgid "Flickr"
+msgstr "Flickr"
+
+#: includes/functions-flash-core.php:454
+msgid "Flask"
+msgstr "Fiole"
+
+#: includes/functions-flash-core.php:453
+msgid "Flash"
+msgstr "Flash"
+
+#: includes/functions-flash-core.php:452
+msgid "Flag O"
+msgstr "Drapeau O"
+
+#: includes/functions-flash-core.php:451
+msgid "Flag Checkered"
+msgstr "Drapeau damier"
+
+#: includes/functions-flash-core.php:450
+msgid "Flag"
+msgstr "Drapeau"
+
+#: includes/functions-flash-core.php:449
+msgid "First Order"
+msgstr "Première commande"
+
+#: includes/functions-flash-core.php:448
+msgid "Firefox"
+msgstr "Firefox"
+
+#: includes/functions-flash-core.php:447
+msgid "Fire Extinguisher"
+msgstr "Extincteur"
+
+#: includes/functions-flash-core.php:446
+msgid "Fire"
+msgstr "Feu"
+
+#: includes/functions-flash-core.php:445
+msgid "Filter"
+msgstr "Filtre"
+
+#: includes/functions-flash-core.php:444
+msgid "Film"
+msgstr "Film"
+
+#: includes/functions-flash-core.php:443
+msgid "Files O"
+msgstr "Fichiers O"
+
+#: includes/functions-flash-core.php:442
+msgid "File Zip O"
+msgstr "Fichier Zip O"
+
+#: includes/functions-flash-core.php:441
+msgid "File Word O"
+msgstr "Fichier Word O"
+
+#: includes/functions-flash-core.php:440
+msgid "File Video O"
+msgstr "Fichier vidéo O"
+
+#: includes/functions-flash-core.php:439
+msgid "File Text O"
+msgstr "Fichier texte O"
+
+#: includes/functions-flash-core.php:438
+msgid "File Text"
+msgstr "Fichier texte"
+
+#: includes/functions-flash-core.php:437
+msgid "File Sound O"
+msgstr "Fichier son O"
+
+#: includes/functions-flash-core.php:436
+msgid "File Powerpoint O"
+msgstr "Fichier PowerPoint O"
+
+#: includes/functions-flash-core.php:435
+msgid "File Picture O"
+msgstr "Fichier image O"
+
+#: includes/functions-flash-core.php:434
+msgid "File Photo O"
+msgstr "Fichier photo O"
+
+#: includes/functions-flash-core.php:433
+msgid "File Pdf O"
+msgstr "Fichier PDF O"
+
+#: includes/functions-flash-core.php:432
+msgid "File O"
+msgstr " Fichier O"
+
+#: includes/functions-flash-core.php:431
+msgid "File Movie O"
+msgstr "Fichier de film O"
+
+#: includes/functions-flash-core.php:430
+msgid "File Image O"
+msgstr "Fichier image O"
+
+#: includes/functions-flash-core.php:429
+msgid "File Excel O"
+msgstr "Fichier Excel O"
+
+#: includes/functions-flash-core.php:428
+msgid "File Code O"
+msgstr "Fichier de code O"
+
+#: includes/functions-flash-core.php:427
+msgid "File Audio O"
+msgstr "Fichier audio O"
+
+#: includes/functions-flash-core.php:426
+msgid "File Archive O"
+msgstr "Fichier d’archive O"
+
+#: includes/functions-flash-core.php:425
+msgid "Fighter Jet"
+msgstr "Avion à réaction"
+
+#: includes/functions-flash-core.php:424
+msgid "Female"
+msgstr "Femelle"
+
+#: includes/functions-flash-core.php:423
+msgid "Feed"
+msgstr "Flux"
+
+#: includes/functions-flash-core.php:422
+msgid "Fax"
+msgstr "Fax"
+
+#: includes/functions-flash-core.php:421
+msgid "Fast Forward"
+msgstr "Avance rapide"
+
+#: includes/functions-flash-core.php:420
+msgid "Fast Backward"
+msgstr "Retour rapide"
+
+#: includes/functions-flash-core.php:419
+msgid "Facebook Square"
+msgstr "Facebook carré"
+
+#: includes/functions-flash-core.php:418
+msgid "Facebook Official"
+msgstr "Facebook Officiel"
+
+#: includes/functions-flash-core.php:417
+msgid "Facebook F"
+msgstr "Facebook F"
+
+#: includes/functions-flash-core.php:416
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/functions-flash-core.php:415
+msgid "Fa"
+msgstr "Fa"
+
+#: includes/functions-flash-core.php:414
+msgid "Eyedropper"
+msgstr "Pipette"
+
+#: includes/functions-flash-core.php:413
+msgid "Eye Slash"
+msgstr "Œil barré"
+
+#: includes/functions-flash-core.php:412
+msgid "Eye"
+msgstr "Œil"
+
+#: includes/functions-flash-core.php:411
+msgid "External Link Square"
+msgstr "Lien externe carré"
+
+#: includes/functions-flash-core.php:410
+msgid "External Link"
+msgstr "Lien externe"
+
+#: includes/functions-flash-core.php:409
+msgid "Expeditedssl"
+msgstr "Expeditedssl"
+
+#: includes/functions-flash-core.php:408
+msgid "Expand"
+msgstr "Déplier"
+
+#: includes/functions-flash-core.php:407
+msgid "Exclamation Triangle"
+msgstr "Triangle d’exclamation"
+
+#: includes/functions-flash-core.php:406
+msgid "Exclamation Circle"
+msgstr "Cercle d’exclamation"
+
+#: includes/functions-flash-core.php:405
+msgid "Exclamation "
+msgstr "Exclamation "
+
+#: includes/functions-flash-core.php:404
+msgid "Exchange"
+msgstr "Exchange"
+
+#: includes/functions-flash-core.php:403
+msgid "Euro"
+msgstr "Euro"
+
+#: includes/functions-flash-core.php:402
+msgid "Eraser"
+msgstr "Eraser"
+
+#: includes/functions-flash-core.php:401
+msgid "Envira"
+msgstr "Envira"
+
+#: includes/functions-flash-core.php:400
+msgid "Envelope Square"
+msgstr "Enveloppe carrée"
+
+#: includes/functions-flash-core.php:399
+msgid "Envelope O"
+msgstr "Enveloppe O"
+
+#: includes/functions-flash-core.php:398
+msgid "Envelope"
+msgstr "Enveloppe"
+
+#: includes/functions-flash-core.php:397
+msgid "Empire"
+msgstr "Empire"
+
+#: includes/functions-flash-core.php:396
+msgid "Ellipsis V"
+msgstr "Ellipse V"
+
+#: includes/functions-flash-core.php:395
+msgid "Ellipsis H"
+msgstr "Ellipse H"
+
+#: includes/functions-flash-core.php:394
+msgid "Eject"
+msgstr "Eject"
+
+#: includes/functions-flash-core.php:392
+msgid "Edge"
+msgstr "Edge"
+
+#: includes/functions-flash-core.php:391
+msgid "Drupal"
+msgstr "Drupal"
+
+#: includes/functions-flash-core.php:390
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#: includes/functions-flash-core.php:389
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: includes/functions-flash-core.php:388
+msgid "Dot Circle O"
+msgstr "Cercle point O"
+
+#: includes/functions-flash-core.php:387
+msgid "Doller"
+msgstr "Doller"
+
+#: includes/functions-flash-core.php:386
+msgid "Digg"
+msgstr "Digg"
+
+#: includes/functions-flash-core.php:385
+msgid "Diamond"
+msgstr "Diamant"
+
+#: includes/functions-flash-core.php:384
+msgid "Deviantart"
+msgstr "DeviantArt"
+
+#: includes/functions-flash-core.php:383
+msgid "Desktop"
+msgstr "Desktop"
+
+#: includes/functions-flash-core.php:382
+msgid "Delicious"
+msgstr "Delicious"
+
+#: includes/functions-flash-core.php:381
+msgid "Dedent"
+msgstr "Dedent"
+
+#: includes/functions-flash-core.php:380
+msgid "Deaf"
+msgstr "Deaf"
+
+#: includes/functions-flash-core.php:379
+msgid "Database"
+msgstr "Base de données"
+
+#: includes/functions-flash-core.php:378
+msgid "Dashcube"
+msgstr "Dashcube"
+
+#: includes/functions-flash-core.php:377
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: includes/functions-flash-core.php:376
+msgid "Cutlery"
+msgstr "Cutlery"
+
+#: includes/functions-flash-core.php:375
+msgid "Cut"
+msgstr "Couper"
+
+#: includes/functions-flash-core.php:374
+msgid "Cubes"
+msgstr "Cubes"
+
+#: includes/functions-flash-core.php:373
+msgid "Cube"
+msgstr "Cube"
+
+#: includes/functions-flash-core.php:372
+msgid "Css3"
+msgstr "Css3"
+
+#: includes/functions-flash-core.php:371
+msgid "Crosshairs"
+msgstr "Crosshairs"
+
+#: includes/functions-flash-core.php:370
+msgid "Crop"
+msgstr "Rogner"
+
+#: includes/functions-flash-core.php:369
+msgid "Credit Card Alt"
+msgstr "Alt de carte bancaire"
+
+#: includes/functions-flash-core.php:368
+msgid "Credit Card"
+msgstr "Carte bancaire"
+
+#: includes/functions-flash-core.php:367
+msgid "Creative Commons"
+msgstr "Creative Commons"
+
+#: includes/functions-flash-core.php:366
+msgid "Copyright"
+msgstr "Copyright"
+
+#: includes/functions-flash-core.php:365
+msgid "Copy"
+msgstr "Copier"
+
+#: includes/functions-flash-core.php:364
+msgid "Contao"
+msgstr "Contao"
+
+#: includes/functions-flash-core.php:363
+msgid "Connectdevelop"
+msgstr "Connectdevelop"
+
+#: includes/functions-flash-core.php:362
+msgid "Compress"
+msgstr "Compress"
+
+#: includes/functions-flash-core.php:361
+msgid "Compass"
+msgstr "Compass"
+
+#: includes/functions-flash-core.php:360
+msgid "Comments O"
+msgstr "Commentaires O"
+
+#: includes/functions-flash-core.php:359
+msgid "Comments"
+msgstr "Commentaires"
+
+#: includes/functions-flash-core.php:358
+msgid "Commenting O"
+msgstr "Commenter O"
+
+#: includes/functions-flash-core.php:357
+msgid "Commenting"
+msgstr "Commenter"
+
+#: includes/functions-flash-core.php:356
+msgid "Comment O"
+msgstr "Commentaire O"
+
+#: includes/functions-flash-core.php:355
+msgid "Comment"
+msgstr "Commentaire"
+
+#: includes/functions-flash-core.php:354
+#: includes/widgets/class-flash-widget-portfolio.php:72
+msgid "Columns"
+msgstr "Colonnes"
+
+#: includes/functions-flash-core.php:353
+msgid "Cogs"
+msgstr "Cogs"
+
+#: includes/functions-flash-core.php:352
+msgid "Cog"
+msgstr "Cog"
+
+#: includes/functions-flash-core.php:351
+msgid "Coffee"
+msgstr "Café"
+
+#: includes/functions-flash-core.php:350
+msgid "Codiepie"
+msgstr "Codiepie"
+
+#: includes/functions-flash-core.php:349
+msgid "Codepen"
+msgstr "Codepen"
+
+#: includes/functions-flash-core.php:348
+msgid "Code Fork"
+msgstr "Fork de code"
+
+#: includes/functions-flash-core.php:347
+msgid "Code"
+msgstr "Code"
+
+#: includes/functions-flash-core.php:346
+msgid "Cny"
+msgstr "Cny"
+
+#: includes/functions-flash-core.php:345
+msgid "Cloud Upload"
+msgstr "Envoi de cloud"
+
+#: includes/functions-flash-core.php:344
+msgid "Cloud Download"
+msgstr "Téléchargement de cloud"
+
+#: includes/functions-flash-core.php:343
+msgid "Cloud"
+msgstr "Cloud"
+
+#: includes/functions-flash-core.php:341
+msgid "Clone"
+msgstr "Cloner"
+
+#: includes/functions-flash-core.php:340
+msgid "Clock O"
+msgstr "Horloge O"
+
+#: includes/functions-flash-core.php:339
+msgid "Clipboard"
+msgstr "Presse-papiers"
+
+#: includes/functions-flash-core.php:338
+msgid "Circle Thin"
+msgstr "Cercle mince"
+
+#: includes/functions-flash-core.php:337
+msgid "Circle Notch"
+msgstr "Cercle rompu"
+
+#: includes/functions-flash-core.php:336
+msgid "Circle O"
+msgstr "Cercle O"
+
+#: includes/functions-flash-core.php:335
+msgid "Circle"
+msgstr "Cercle"
+
+#: includes/functions-flash-core.php:334
+msgid "Chrome"
+msgstr "Chrome"
+
+#: includes/functions-flash-core.php:333
+msgid "Child"
+msgstr "Enfant"
+
+#: includes/functions-flash-core.php:332
+msgid "Chevron Up"
+msgstr "Chevron haut"
+
+#: includes/functions-flash-core.php:331
+msgid "Chevron Right"
+msgstr "Chevron droite"
+
+#: includes/functions-flash-core.php:330
+msgid "Chevron Left"
+msgstr "Chevron gauche"
+
+#: includes/functions-flash-core.php:329
+msgid "Chevron Down"
+msgstr "Chevron cercle bas"
+
+#: includes/functions-flash-core.php:328
+msgid "Chevron Circle Up"
+msgstr "Chevron cercle haut"
+
+#: includes/functions-flash-core.php:327
+msgid "Chevron Circle Right"
+msgstr "Chevron cercle droite"
+
+#: includes/functions-flash-core.php:326
+msgid "Chevron Circle Left"
+msgstr "Chevron cercle gauche"
+
+#: includes/functions-flash-core.php:325
+msgid "Chevron Circle Down"
+msgstr "Chevron cercle bas"
+
+#: includes/functions-flash-core.php:324
+msgid "Check Square O"
+msgstr "Carré de vérification O"
+
+#: includes/functions-flash-core.php:323
+msgid "Check Square "
+msgstr "Carré de vérification"
+
+#: includes/functions-flash-core.php:322
+msgid "Check Circle O"
+msgstr "Cercle de vérification O"
+
+#: includes/functions-flash-core.php:321
+msgid "Check Circle"
+msgstr "Cercle de vérification"
+
+#: includes/functions-flash-core.php:320
+msgid "Check"
+msgstr "Vérification"
+
+#: includes/functions-flash-core.php:319
+msgid "Chain Broken"
+msgstr "Chaîne rompue"
+
+#: includes/functions-flash-core.php:318
+msgid "Cc Chain"
+msgstr "Cc Chain"
+
+#: includes/functions-flash-core.php:317
+msgid "Certificate"
+msgstr "Certificat"
+
+#: includes/functions-flash-core.php:316
+msgid "Cc Visa"
+msgstr "Cc Visa"
+
+#: includes/functions-flash-core.php:315
+msgid "Cc Stripe"
+msgstr "Cc Stripe"
+
+#: includes/functions-flash-core.php:314
+msgid "Cc Paypal"
+msgstr "Cc Paypal"
+
+#: includes/functions-flash-core.php:313
+msgid "Cc mastercard"
+msgstr "Cc mastercard"
+
+#: includes/functions-flash-core.php:312
+msgid "Cc Jcb"
+msgstr "Cc Jcb"
+
+#: includes/functions-flash-core.php:311
+msgid "Cc Discover"
+msgstr "Cc Discover"
+
+#: includes/functions-flash-core.php:310
+msgid "Cc Diners Club"
+msgstr "Cc Diners Club"
+
+#: includes/functions-flash-core.php:309
+msgid "Cc Amex"
+msgstr "Cc Amex"
+
+#: includes/functions-flash-core.php:308
+msgid "Cc"
+msgstr "Cc"
+
+#: includes/functions-flash-core.php:307
+msgid "Cart Plus"
+msgstr "Plus panier"
+
+#: includes/functions-flash-core.php:306
+msgid "Cart Arrow Down"
+msgstr "Flèche de panier bas"
+
+#: includes/functions-flash-core.php:305
+msgid "Caret Up"
+msgstr "Triangle haut"
+
+#: includes/functions-flash-core.php:304
+msgid "Caret Square O Up"
+msgstr "Triangle carré O haut"
+
+#: includes/functions-flash-core.php:303
+msgid "Caret Square O Right"
+msgstr "Triangle carré O droite"
+
+#: includes/functions-flash-core.php:302
+msgid "Caret Square O Left"
+msgstr "Triangle carré O gauche"
+
+#: includes/functions-flash-core.php:301
+msgid "Caret Square O Down"
+msgstr "Triangle carré O bas"
+
+#: includes/functions-flash-core.php:300
+msgid "Caret Right"
+msgstr "Triangle droite"
+
+#: includes/functions-flash-core.php:299
+msgid "Caret Left"
+msgstr "Triangle gauche"
+
+#: includes/functions-flash-core.php:298
+msgid "Caret Down"
+msgstr "Triangle bas"
+
+#: includes/functions-flash-core.php:297
+msgid "Car"
+msgstr "Voiture"
+
+#: includes/functions-flash-core.php:296
+msgid "Camera Retro"
+msgstr "Caméra rétro"
+
+#: includes/functions-flash-core.php:295
+msgid "Camera"
+msgstr "Caméra"
+
+#: includes/functions-flash-core.php:294
+msgid "Calendar Times"
+msgstr "Heures de calendrier"
+
+#: includes/functions-flash-core.php:293
+msgid "Calendar Plus"
+msgstr "Plus de calendrier"
+
+#: includes/functions-flash-core.php:292
+msgid "Calendar O"
+msgstr "Calendrier O"
+
+#: includes/functions-flash-core.php:291
+msgid "Calendar Minus"
+msgstr "Moins de calendrier"
+
+#: includes/functions-flash-core.php:290
+msgid "Calendar Check"
+msgstr "Vérification de calendrier"
+
+#: includes/functions-flash-core.php:289
+msgid "Calendar"
+msgstr "Calendrier"
+
+#: includes/functions-flash-core.php:288
+msgid "Calculator"
+msgstr "Calculateur"
+
+#: includes/functions-flash-core.php:287
+msgid "Cab"
+msgstr "Voiture"
+
+#: includes/functions-flash-core.php:286
+msgid "Buysellads"
+msgstr "Buysellads"
+
+#: includes/functions-flash-core.php:285
+msgid "Bus"
+msgstr "Bus"
+
+#: includes/functions-flash-core.php:284
+msgid "Bullseye"
+msgstr "Cible"
+
+#: includes/functions-flash-core.php:283
+msgid "Bullhorn"
+msgstr "Haut-parleur"
+
+#: includes/functions-flash-core.php:282
+msgid "Building O"
+msgstr "Construction O"
+
+#: includes/functions-flash-core.php:281
+msgid "Building"
+msgstr "Construction"
+
+#: includes/functions-flash-core.php:280
+msgid "Bug"
+msgstr "Bug"
+
+#: includes/functions-flash-core.php:279
+msgid "Btc"
+msgstr "Btc"
+
+#: includes/functions-flash-core.php:278
+msgid "Briefcase"
+msgstr "Malette"
+
+#: includes/functions-flash-core.php:277
+msgid "Braille"
+msgstr "Braille"
+
+#: includes/functions-flash-core.php:276
+msgid "Bookmark Holo"
+msgstr "Favori Holo"
+
+#: includes/functions-flash-core.php:275
+msgid "Bookmark"
+msgstr "Favori"
+
+#: includes/functions-flash-core.php:274
+msgid "Book"
+msgstr "Livre"
+
+#: includes/functions-flash-core.php:273
+msgid "Bomb"
+msgstr "Bombe"
+
+#: includes/functions-flash-core.php:271
+msgid "Bolt"
+msgstr "Éclair"
+
+#: includes/functions-flash-core.php:270
+msgid "Bold"
+msgstr "Gras"
+
+#: includes/functions-flash-core.php:269 includes/functions-flash-core.php:272
+msgid "Bluetooth b"
+msgstr "Bluetooth b"
+
+#: includes/functions-flash-core.php:268
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+#: includes/functions-flash-core.php:267
+msgid "Blind"
+msgstr "Aveugle"
+
+#: includes/functions-flash-core.php:266
+msgid "Black Tie"
+msgstr "Cravatte noire"
+
+#: includes/functions-flash-core.php:265
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+#: includes/functions-flash-core.php:264
+msgid "Bitbucket Square"
+msgstr "Bitbucket Square"
+
+#: includes/functions-flash-core.php:263
+msgid "Bitbucket"
+msgstr "Bitbucket"
+
+#: includes/functions-flash-core.php:262
+msgid "Birthday Cake"
+msgstr "Gâteau d’anniversaire"
+
+#: includes/functions-flash-core.php:261
+msgid "Binoculars"
+msgstr "Jumelles"
+
+#: includes/functions-flash-core.php:260
+msgid "Bicycle"
+msgstr "Vélo"
+
+#: includes/functions-flash-core.php:259
+msgid "Bell Slash O"
+msgstr "Cloche barrée O"
+
+#: includes/functions-flash-core.php:258
+msgid "Bell Slash"
+msgstr "Cloche barrée"
+
+#: includes/functions-flash-core.php:257
+msgid "Bell O"
+msgstr "Cloche O"
+
+#: includes/functions-flash-core.php:256
+msgid "Bell"
+msgstr "Cloche"
+
+#: includes/functions-flash-core.php:255
+msgid "Behance Square"
+msgstr "Behance Square"
+
+#: includes/functions-flash-core.php:254
+msgid "Behance"
+msgstr "Behance"
+
+#: includes/functions-flash-core.php:253
+msgid "Beer"
+msgstr "Bière"
+
+#: includes/functions-flash-core.php:252
+msgid "Bed"
+msgstr "Lit"
+
+#: includes/functions-flash-core.php:251
+msgid "Battery Three Quater"
+msgstr "Batterie trois quarts"
+
+#: includes/functions-flash-core.php:250
+msgid "Battery Quarter"
+msgstr "Batterie au quart"
+
+#: includes/functions-flash-core.php:249
+msgid "Battery Half"
+msgstr "Batterie à moitié"
+
+#: includes/functions-flash-core.php:248
+msgid "Battery Full"
+msgstr "Batterie pleine"
+
+#: includes/functions-flash-core.php:247
+msgid "Battery Empty"
+msgstr "Batterie vide"
+
+#: includes/functions-flash-core.php:246
+msgid "Battery 4"
+msgstr "Batterie 4"
+
+#: includes/functions-flash-core.php:245
+msgid "Battery 3"
+msgstr "Batterie 3"
+
+#: includes/functions-flash-core.php:244
+msgid "Battery 2"
+msgstr "Batterie 2"
+
+#: includes/functions-flash-core.php:243
+msgid "Battery 1"
+msgstr "Batterie 1"
+
+#: includes/functions-flash-core.php:242
+msgid "Battery 0"
+msgstr "Batterie 0"
+
+#: includes/functions-flash-core.php:241
+msgid "Bars"
+msgstr "Barres"
+
+#: includes/functions-flash-core.php:240
+msgid "Barcode"
+msgstr "Code barre"
+
+#: includes/functions-flash-core.php:239
+msgid "Bar Chart O"
+msgstr "Graphique de barre 0"
+
+#: includes/functions-flash-core.php:238
+msgid "Bar Chart"
+msgstr "Graphique de barre"
+
+#: includes/functions-flash-core.php:237
+msgid "Bank"
+msgstr "Banque"
+
+#: includes/functions-flash-core.php:236
+msgid "Ban"
+msgstr "Bannir"
+
+#: includes/functions-flash-core.php:235
+msgid "Balance Scale"
+msgstr "Échelle de solde"
+
+#: includes/functions-flash-core.php:234
+msgid "Backward"
+msgstr "Retour en arrière"
+
+#: includes/functions-flash-core.php:233
+msgid "Automobile"
+msgstr "Automobile"
+
+#: includes/functions-flash-core.php:232
+msgid "Audio Description"
+msgstr "Description audio"
+
+#: includes/functions-flash-core.php:231
+msgid "At"
+msgstr "à"
+
+#: includes/functions-flash-core.php:230
+msgid "Asterisk"
+msgstr "Astérisque"
+
+#: includes/functions-flash-core.php:229
+msgid "Assistive Listening Systems"
+msgstr "Systèmes d’écoute assistée"
+
+#: includes/functions-flash-core.php:228
+msgid "Asl Interpreting"
+msgstr "Interprétation asl"
+
+#: includes/functions-flash-core.php:227
+msgid "Arrow V"
+msgstr "Flèche V"
+
+#: includes/functions-flash-core.php:226
+msgid "Arrow H"
+msgstr "Flèche H"
+
+#: includes/functions-flash-core.php:225
+msgid "Arrows Alt"
+msgstr "Alt flèches"
+
+#: includes/functions-flash-core.php:224
+msgid "Arrows"
+msgstr "Flèches"
+
+#: includes/functions-flash-core.php:223
+msgid "Arrow Up"
+msgstr "Flèche haut"
+
+#: includes/functions-flash-core.php:222
+msgid "Arrow Right"
+msgstr "Flèche droite"
+
+#: includes/functions-flash-core.php:221
+msgid "Arrow Left"
+msgstr "Flèche gauche"
+
+#: includes/functions-flash-core.php:220
+msgid "Arrow Down"
+msgstr "Flèche bas"
+
+#: includes/functions-flash-core.php:219
+msgid "Arrow Circle Up"
+msgstr "Cercle flèche 0 haut"
+
+#: includes/functions-flash-core.php:218
+msgid "Arrow Circle Right"
+msgstr "Cercle flèche 0 droite"
+
+#: includes/functions-flash-core.php:217
+msgid "Arrow Circle O Up"
+msgstr "Cercle flèche 0 haut"
+
+#: includes/functions-flash-core.php:216
+msgid "Arrow Circle O Right"
+msgstr "Cercle flèche 0 droite"
+
+#: includes/functions-flash-core.php:215
+msgid "Arrow Circle O Left"
+msgstr "Cercle flèche 0 gauche"
+
+#: includes/functions-flash-core.php:214
+msgid "Arrow Circle O Down"
+msgstr "Cercle flèche 0 bas"
+
+#: includes/functions-flash-core.php:213
+msgid "Arrow Circle Left"
+msgstr "Cercle flèche gauche"
+
+#: includes/functions-flash-core.php:212
+msgid "Arrow Circle Down"
+msgstr "Cercle flèche bas"
+
+#: includes/functions-flash-core.php:211
+msgid "Area Chart"
+msgstr "Zone de graphique"
+
+#: includes/functions-flash-core.php:210
+msgid "Archive"
+msgstr "Archives"
+
+#: includes/functions-flash-core.php:209
+msgid "Apple"
+msgstr "Apple"
+
+#: includes/functions-flash-core.php:208
+msgid "Angle Down"
+msgstr "Angle bas"
+
+#: includes/functions-flash-core.php:207
+msgid "Angle Up"
+msgstr "Angle haut"
+
+#: includes/functions-flash-core.php:206
+msgid "Angle Right"
+msgstr "Angle droite"
+
+#: includes/functions-flash-core.php:205
+msgid "Angle Left"
+msgstr "Angle gauche"
+
+#: includes/functions-flash-core.php:204
+msgid "Angle Double Down"
+msgstr "Double angle bas"
+
+#: includes/functions-flash-core.php:203
+msgid "Angle Double Up"
+msgstr "Double angle haut"
+
+#: includes/functions-flash-core.php:202
+msgid "Angle Double Right"
+msgstr "Double angle droite"
+
+#: includes/functions-flash-core.php:201
+msgid "Angle Double Left"
+msgstr "Double angle gauche"
+
+#: includes/functions-flash-core.php:200
+msgid "Android"
+msgstr "Android"
+
+#: includes/functions-flash-core.php:199
+msgid "Angellist"
+msgstr "AngelList"
+
+#: includes/functions-flash-core.php:198
+msgid "Anchor"
+msgstr "Ancre"
+
+#: includes/functions-flash-core.php:197
+msgid "American Sign Lnguage Interpreting"
+msgstr "Signe américain d’interprétation de langue"
+
+#: includes/functions-flash-core.php:196
+msgid "Ambulance"
+msgstr "Ambulance"
+
+#: includes/functions-flash-core.php:195
+msgid "Amazon"
+msgstr "Amazon"
+
+#: includes/functions-flash-core.php:194
+msgid "Align Right"
+msgstr "Alignement à droite"
+
+#: includes/functions-flash-core.php:193
+msgid "Align Left"
+msgstr "Alignement à gauche"
+
+#: includes/functions-flash-core.php:192
+msgid "Align Justify"
+msgstr "Alignement justifié"
+
+#: includes/functions-flash-core.php:191
+msgid "Align Center"
+msgstr "Alignement au centre"
+
+#: includes/functions-flash-core.php:190
+msgid "Adn"
+msgstr "Adn"
+
+#: includes/functions-flash-core.php:189
+msgid "Adjust"
+msgstr "Ajuster"
+
+#: includes/functions-flash-core.php:188
+msgid "500px"
+msgstr "500px"
+
+#: includes/class-flash-sidebars.php:124
+msgid "Custom Widget Area of the site - %s "
+msgstr "Zone de widget personnalisée du site - %s"
+
+#: includes/class-flash-post-types.php:162
+msgid "This is where you can add new portfolio items to your project."
+msgstr "Ceci est l’endroit où vous pouvez ajouter de nouveaux éléments de portfolio pour votre projet."
+
+#: includes/class-flash-post-types.php:160
+msgid "Projects list"
+msgstr "Liste de projets"
+
+#: includes/class-flash-post-types.php:159
+msgid "Projects navigation"
+msgstr "Navigation de projets"
+
+#: includes/class-flash-post-types.php:158
+msgid "Filter Projects"
+msgstr "Filtre des projets"
+
+#: includes/class-flash-post-types.php:157
+msgid "Uploaded to this project"
+msgstr "Envoyé pour ce projet"
+
+#: includes/class-flash-post-types.php:156
+msgid "Insert into project"
+msgstr "Insérer dans le projet"
+
+#: includes/class-flash-post-types.php:155
+msgid "Use as project image"
+msgstr "Utiliser comme image de projet"
+
+#: includes/class-flash-post-types.php:154
+msgid "Remove project image"
+msgstr "Supprimer l’image de projet"
+
+#: includes/class-flash-post-types.php:153
+msgid "Set project image"
+msgstr "Définir l’image de projet"
+
+#: includes/class-flash-post-types.php:152
+msgid "Project Image"
+msgstr "Image de projet"
+
+#: includes/class-flash-post-types.php:151
+msgid "Parent Project"
+msgstr "Projet parent"
+
+#: includes/class-flash-post-types.php:150
+msgid "No Projects found in trash"
+msgstr "Aucun projet trouvé dans la corbeille"
+
+#: includes/class-flash-post-types.php:149
+msgid "No Projects found"
+msgstr "Aucun projet trouvé"
+
+#: includes/class-flash-post-types.php:148
+msgid "Search Projects"
+msgstr "Recherche de projets"
+
+#: includes/class-flash-post-types.php:146
+#: includes/class-flash-post-types.php:147
+msgid "View Project"
+msgstr "Voir le projet"
+
+#: includes/class-flash-post-types.php:145
+msgid "New Project"
+msgstr "Nouveau projet"
+
+#: includes/class-flash-post-types.php:144
+msgid "Edit Project"
+msgstr "Modification de projet"
+
+#: includes/class-flash-post-types.php:143
+#: includes/functions-flash-core.php:393
+msgid "Edit"
+msgstr "Modifier"
+
+#: includes/class-flash-post-types.php:142
+msgid "Add New Project"
+msgstr "Ajout de nouveau projet"
+
+#: includes/class-flash-post-types.php:141
+msgid "Add Project"
+msgstr "Ajout de projet"
+
+#: includes/class-flash-post-types.php:140
+msgid "All Projects"
+msgstr "Tous les projets"
+
+#: includes/class-flash-post-types.php:139
+msgctxt "Admin menu name"
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: includes/class-flash-post-types.php:138
+msgid "Project"
+msgstr "Projet"
+
+#: includes/class-flash-post-types.php:137
+msgid "Projects"
+msgstr "Projets"
+
+#: includes/class-flash-post-types.php:100
+msgid "No tags found"
+msgstr "Aucune étiquette trouvée"
+
+#: includes/class-flash-post-types.php:99
+msgid "Choose from the most used tags"
+msgstr "Choix parmi les étiquettes les plus utilisées"
+
+#: includes/class-flash-post-types.php:98
+msgid "Add or remove Tags"
+msgstr "Ajouter ou supprimer des étiquettes"
+
+#: includes/class-flash-post-types.php:97
+msgid "Separate Tags with commas"
+msgstr "Séparez les étiquettes par des virgules"
+
+#: includes/class-flash-post-types.php:96
+msgid "Popular Tags"
+msgstr "Étiquettes populaires"
+
+#: includes/class-flash-post-types.php:95
+msgid "New Tag Name"
+msgstr "Nouveau nom d’étiquette"
+
+#: includes/class-flash-post-types.php:94
+msgid "Add New Tag"
+msgstr "Ajout de nouvelle étiquette"
+
+#: includes/class-flash-post-types.php:93
+msgid "Update Tag"
+msgstr "Mise à jour d’étiquette"
+
+#: includes/class-flash-post-types.php:92
+msgid "Edit Tag"
+msgstr "Modification d'étiquette"
+
+#: includes/class-flash-post-types.php:91
+msgid "All Tags"
+msgstr "Toutes les étiquettes"
+
+#: includes/class-flash-post-types.php:90
+msgid "Search Tags"
+msgstr "Recherche d'étiquettes"
+
+#: includes/class-flash-post-types.php:89
+msgctxt "Admin menu name"
+msgid "Tags"
+msgstr "Étiquettes"
+
+#: includes/class-flash-post-types.php:88 includes/functions-flash-core.php:794
+msgid "Tag"
+msgstr "Étiquette"
+
+#: includes/class-flash-post-types.php:87
+msgid "Project Tags"
+msgstr "Étiquettes de projet"
+
+#: includes/class-flash-post-types.php:85 includes/functions-flash-core.php:795
+msgid "Tags"
+msgstr "Étiquettes"
+
+#: includes/class-flash-post-types.php:63
+msgid "No categories found"
+msgstr "Aucune catégorie trouvée"
+
+#: includes/class-flash-post-types.php:62
+msgid "New Category Name"
+msgstr "Nom de nouvelle catégorie"
+
+#: includes/class-flash-post-types.php:61
+msgid "Add New Category"
+msgstr "Ajout de catégorie"
+
+#: includes/class-flash-post-types.php:60
+msgid "Update Category"
+msgstr "Mise à jour de catégorie"
+
+#: includes/class-flash-post-types.php:59
+msgid "Edit Category"
+msgstr "Modification de catégorie"
+
+#: includes/class-flash-post-types.php:58
+msgid "Parent Category:"
+msgstr "Catégorie parente :"
+
+#: includes/class-flash-post-types.php:57
+msgid "Parent Category"
+msgstr "Catégorie parente"
+
+#: includes/class-flash-post-types.php:56
+msgid "All Categories"
+msgstr "Toutes les catégories"
+
+#: includes/class-flash-post-types.php:55
+msgid "Search Categories"
+msgstr "Recherche de catégories"
+
+#: includes/class-flash-post-types.php:54
+msgctxt "Admin menu name"
+msgid "Categories"
+msgstr "Catégories"
+
+#: includes/class-flash-post-types.php:53
+msgid "Category"
+msgstr "Catégorie"
+
+#: includes/class-flash-post-types.php:52
+msgid "Project Categories"
+msgstr "Catégories de projet"
+
+#: includes/class-flash-post-types.php:50
+msgid "Categories"
+msgstr "Catégories"
+
+#: includes/class-flash-install.php:272
+msgid "Free Support"
+msgstr "Support gratuit"
+
+#: includes/class-flash-install.php:272
+msgid "Visit Free Customer Support Forum"
+msgstr "Visiter le forum de support gratuit des clients"
+
+#: includes/class-flash-install.php:271
+msgid "Docs"
+msgstr "Docs"
+
+#: includes/class-flash-install.php:271
+msgid "View Flash Toolkit Documentation"
+msgstr "Voir la documentation de Flash Toolkit"
+
+#: includes/admin/views/html-notice-updating.php:12
+msgid "Taking a while? Click here to run it now."
+msgstr "Cela prend du temps ? Cliquez ici pour le lancer maintenant."
+
+#: includes/admin/views/html-notice-updating.php:12
+msgid "Your database is being updated in the background."
+msgstr "Votre base de données est en train d’être mise à jour."
+
+#: includes/admin/views/html-notice-updated.php:14
+msgid "FlashToolkit data update complete. Thank you for updating to the latest version!"
+msgstr "La mise à jour des données de FlashToolkit est complète. Merci d’avoir mis à jour dans la dernière version !"
+
+#: includes/admin/views/html-notice-update.php:17
+msgid "It is strongly recommended that you backup your database before proceeding. Are you sure you wish to run the updater now?"
+msgstr "Il est fortement recommandé d’effectuer une sauvegarde de votre base de données avant la mise à jour. Voulez vous vraiment lancer la mise à jour maintenant ?  "
+
+#: includes/admin/views/html-notice-update.php:13
+msgid "Run the updater"
+msgstr "Lancer la mise à jour"
+
+#: includes/admin/views/html-notice-update.php:12
+msgid "We need to update your site's database to the latest version."
+msgstr "Nous avons besoin de mettre à jour votre base de données dans la dernière version."
+
+#: includes/admin/views/html-notice-update.php:12
+#: includes/admin/views/html-notice-updating.php:12
+msgid "FlashToolkit Data Update"
+msgstr "Mise à jour des données de Flash Toolkit"
+
+#: includes/admin/views/html-notice-custom.php:12
+#: includes/admin/views/html-notice-updated.php:12
+msgid "Dismiss"
+msgstr "Ignorer"
+
+#: includes/admin/views/html-admin-tmpl-sidebars.php:16
+msgid "Add Widget Area"
+msgstr "Ajout de zone de widgets"
+
+#: includes/admin/views/html-admin-tmpl-sidebars.php:15
+msgid "Enter New Widget Area Name"
+msgstr "Saisissez le nom de la nouvelle zone de widgets"
+
+#: includes/admin/views/html-admin-tmpl-sidebars.php:13
+msgid "Custom Widget Area Builder"
+msgstr "Constructeur de zone de widget personnalisée"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-portfolio-data.php:75
+msgid "Enable example checkbox."
+msgstr "Activer la case à cocher d’exemple"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-portfolio-data.php:75
+msgid "Sample Checkbox"
+msgstr "Case à cocher exemple"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-portfolio-data.php:67
+msgid "Define whether or not the entire layout should be one or two column based."
+msgstr "Définir si votre mise en page entière doit être basée sur une ou deux colonnes"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-portfolio-data.php:64
+msgid "Two Column"
+msgstr "Deux colonnes"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-portfolio-data.php:63
+msgid "One Column"
+msgstr "Une colonne"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-portfolio-data.php:61
+msgid "Layout Type"
+msgstr "Type de mise en page"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-portfolio-data.php:39
+#: includes/admin/meta-boxes/class-flash-meta-box-portfolio-data.php:89
+#: includes/widgets/class-flash-widget-slider.php:54
+#: includes/widgets/class-flash-widget-slider.php:55
+#: includes/widgets/class-flash-widget-team.php:46
+#: includes/widgets/class-flash-widget-testimonial.php:64
+#: includes/widgets/class-flash-widget-testimonial.php:65
+msgid "Description"
+msgstr "Description"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-portfolio-data.php:34
+msgid "General"
+msgstr "Général"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:68
+msgid "Top Sidebar Position options on this page."
+msgstr "Options de position de barre haute sur cette page"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:67
+msgid "Below Header"
+msgstr "Sous l'en-tête"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:66
+msgid "Above Header"
+msgstr "Au dessus de l'en-tête"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:65
+msgid "None"
+msgstr "Rien"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:64
+msgid "Top Sidebar Position"
+msgstr "Position de barre haute"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:61
+msgid "Header transparency options on this page."
+msgstr "Optiions de transparence d’en-tête de cette page."
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:60
+msgid "Transparent Header"
+msgstr "En-tête transparent"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:59
+msgid "No Transparency"
+msgstr "Aucune transparence"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:58
+msgid "Header Transparency"
+msgstr "Transparence d’en-tête"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:55
+msgid "Display the socket and footer widgets?"
+msgstr "Afficher les widgets et les sockets de pied ?"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:54
+msgid "Hide Socket and Widgets"
+msgstr "Masquer les sockets et les widgets"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:53
+msgid "Only Socket (No Widgets)"
+msgstr "Uniquement le socket (pas de widget)"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:52
+msgid "Only Widgets (No Socket)"
+msgstr "Uniquement les widgets (pas de socket)"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:51
+msgid "Both Socket and Widgets"
+msgstr "Socket et Widgets"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:50
+msgid "Default Socket and Widgets"
+msgstr "Widgets & Socket par défaut"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:49
+msgid "Footer Settings"
+msgstr "Réglages de pied"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:46
+msgid "Choose a custom sidebar for this entry."
+msgstr "Choisissez une barre personnalisée pour cette entrée"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:46
+msgid "Sidebar Settings"
+msgstr "Réglages de barre"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:43
+msgid "Select the specific layout for this entry."
+msgstr "Sélectionnez la mise en page spécifique pour cette entrée"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:42
+msgid "Full Width Center"
+msgstr "Pleine largeur centre"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:41
+msgid "Full Width"
+msgstr "Pleine largeur"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:40
+msgid "Right Sidebar"
+msgstr "Barre de droite"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:39
+msgid "Left Sidebar"
+msgstr "Barre de gauche"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:38
+msgid "Default Layout"
+msgstr "Mise en page par défaut"
+
+#: includes/admin/meta-boxes/class-flash-meta-box-layout-data.php:37
+msgid "Layout Settings"
+msgstr "Réglages de mise en page"
+
+#: includes/admin/class-flash-admin.php:80
+msgid "Thank you for creating with Flash Toolkit."
+msgstr "Merci à vous de créer avec Flash Toolkit."
+
+#: includes/admin/class-flash-admin.php:72
+msgid "Thanks :)"
+msgstr "Merci :)"
+
+#: includes/admin/class-flash-admin.php:72
+msgid "If you like <strong>Flash Toolkit</strong> please leave us a %s&#9733;&#9733;&#9733;&#9733;&#9733;%s rating. A huge thanks in advance!"
+msgstr "Si vous aimez <strong>Flash Toolkit</strong> merci de nous laisser une note %s&#9733;&#9733;&#9733;&#9733;&#9733;%s. Un grand merci d’avance !"
+
+#: includes/admin/class-flash-admin-post-types.php:98
+msgid "Project name"
+msgstr "Nom de projet"
+
+#: includes/admin/class-flash-admin-post-types.php:83
+msgid "%s project restored from the Trash."
+msgid_plural "%s projects restored from the Trash."
+msgstr[0] "%s projet restauré depuis la corbeille."
+msgstr[1] "%s projets restaurés depuis la corbeille."
+
+#: includes/admin/class-flash-admin-post-types.php:82
+msgid "%s project moved to the Trash."
+msgid_plural "%s projects moved to the Trash."
+msgstr[0] "%s projet déplacé dans la corbeille."
+msgstr[1] "%s projets déplacés dans la corbeille."
+
+#: includes/admin/class-flash-admin-post-types.php:81
+msgid "%s project permanently deleted."
+msgid_plural "%s projects permanently deleted."
+msgstr[0] "%s projet supprimé définitivement."
+msgstr[1] "%s projets supprimés définitivement."
+
+#: includes/admin/class-flash-admin-post-types.php:80
+msgid "%s project not updated, somebody is editing it."
+msgid_plural "%s projects not updated, somebody is editing them."
+msgstr[0] "%s projet non mis à jour, quelqu’un le modifie."
+msgstr[1] "%s projets non mis à jour, quelqu’un les modifie."
+
+#: includes/admin/class-flash-admin-post-types.php:79
+msgid "%s project updated."
+msgid_plural "%s projects updated."
+msgstr[0] "%s projet mis à jour."
+msgstr[1] "%s projets mis à jour."
+
+#: includes/admin/class-flash-admin-post-types.php:64
+msgid "Project draft updated. <a target=\"_blank\" href=\"%s\">Preview project</a>"
+msgstr "Brouillon de projet mis à jour. <a target=\"_blank\" href=\"%s\">Aperçu du projet</a>"
+
+#: includes/admin/class-flash-admin-post-types.php:63
+msgid "M j, Y @ G:i"
+msgstr "j F, Y @ G:i"
+
+#: includes/admin/class-flash-admin-post-types.php:62
+msgid "Project scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview project</a>"
+msgstr "Projet planifié pour :<strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Aperçu du projet</a>"
+
+#: includes/admin/class-flash-admin-post-types.php:61
+msgid "Project submitted. <a target=\"_blank\" href=\"%s\">Preview project</a>"
+msgstr "Projet proposé. <a target=\"_blank\" href=\"%s\">Aperçu du projet</a>"
+
+#: includes/admin/class-flash-admin-post-types.php:60
+msgid "Project saved."
+msgstr "Projet enregistré."
+
+#: includes/admin/class-flash-admin-post-types.php:59
+msgid "Project published. <a href=\"%s\">View Project</a>"
+msgstr "Projet publié. <a href=\"%s\">Voir le projet</a>"
+
+#: includes/admin/class-flash-admin-post-types.php:58
+msgid "Project restored to revision from %s"
+msgstr "Projet restauré à partir de la révision %s"
+
+#: includes/admin/class-flash-admin-post-types.php:57
+msgid "Project updated."
+msgstr "Projet mis à jour"
+
+#: includes/admin/class-flash-admin-post-types.php:56
+msgid "Custom field deleted."
+msgstr "Champs personnalisé supprimé."
+
+#: includes/admin/class-flash-admin-post-types.php:55
+msgid "Custom field updated."
+msgstr "Champs personnalisé mis à jour."
+
+#: includes/admin/class-flash-admin-post-types.php:54
+msgid "Project updated. <a href=\"%s\">View Project</a>"
+msgstr "Projet mis à jour. <a href=\"%s\">Voir le projet</a>"
+
+#: includes/admin/class-flash-admin-permalink-settings.php:171
+#: includes/class-flash-post-types.php:131
+msgctxt "slug"
+msgid "portfolio"
+msgstr "portoflio"
+
+#: includes/admin/class-flash-admin-permalink-settings.php:110
+msgid "Enter a custom base to use. A base <strong>must</strong> be set or WordPress will use default instead."
+msgstr "Entrez une base personnalisée à utiliser. Une base <strong>doit</strong> être définie ou WordPress utilisera celle par défaut"
+
+#: includes/admin/class-flash-admin-permalink-settings.php:108
+msgid "Custom Base"
+msgstr "Base personnalisée"
+
+#: includes/admin/class-flash-admin-permalink-settings.php:103
+msgid "Project based category"
+msgstr "Catégorie de base de projet"
+
+#: includes/admin/class-flash-admin-permalink-settings.php:99
+msgid "Project base"
+msgstr "Base de projet"
+
+#: includes/admin/class-flash-admin-permalink-settings.php:95
+msgid "Default"
+msgstr "Par défaut"
+
+#: includes/admin/class-flash-admin-permalink-settings.php:84
+msgctxt "default-slug"
+msgid "portfolio"
+msgstr "portfolio"
+
+#: includes/admin/class-flash-admin-permalink-settings.php:83
+msgctxt "default-slug"
+msgid "project"
+msgstr "projet"
+
+#: includes/admin/class-flash-admin-permalink-settings.php:77
+msgid "These settings control the permalinks specifically used for portfolio."
+msgstr "Ces réglages contrôlent les permaliens utilisés spécifiquement pour le portfolio."
+
+#: includes/admin/class-flash-admin-permalink-settings.php:69
+#: includes/class-flash-post-types.php:111
+msgctxt "slug"
+msgid "portfolio-tag"
+msgstr "portfolio-etiquette"
+
+#: includes/admin/class-flash-admin-permalink-settings.php:59
+#: includes/class-flash-post-types.php:74
+msgctxt "slug"
+msgid "portfolio-category"
+msgstr "portfolio-categorie"
+
+#: includes/admin/class-flash-admin-permalink-settings.php:46
+msgid "Portfolio tag base"
+msgstr "Étiquette de base de portfolio"
+
+#: includes/admin/class-flash-admin-permalink-settings.php:39
+msgid "Portfolio category base"
+msgstr "Catégorie de base de portoflio"
+
+#: includes/admin/class-flash-admin-permalink-settings.php:34
+msgid "Portfolio Permalinks"
+msgstr "Permaliens de portfolio"
+
+#: includes/admin/class-flash-admin-notices.php:103
+#: includes/class-flash-sidebars.php:94
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Échec de l'action. Veuillez rafraichir la page et essayer de nouveau."
+
+#: includes/admin/class-flash-admin-meta-boxes.php:103
+msgid "%s Layout"
+msgstr "Mise en page de %s"
+
+#: includes/admin/class-flash-admin-meta-boxes.php:97
+msgid "Portfolio Data"
+msgstr "Donnée de portfolio"
+
+#: includes/admin/class-flash-admin-assets.php:130
+msgid "Delete this Sidebar Permanently and store all widgets in Inactive Sidebar. Are you positive you want to delete this Sidebar?"
+msgstr "Supprimer cette barre définitivement et stocker les widgets dans la barre inactive. Voulez vous vraiment supprimer cette barre ?"
+
+#: includes/admin/class-flash-admin-assets.php:99
+msgid "You can add upto %s fields."
+msgstr "Vous pouvez ajouter jusqu’à %s champs."
+
+#: includes/admin/class-flash-admin-assets.php:95
+msgctxt "enhanced select"
+msgid "Searching&hellip;"
+msgstr "Recherche&hellip;"
+
+#: includes/admin/class-flash-admin-assets.php:94
+msgctxt "enhanced select"
+msgid "Loading more results&hellip;"
+msgstr "Charger plus de résultats&hellip;"
+
+#: includes/admin/class-flash-admin-assets.php:93
+msgctxt "enhanced select"
+msgid "You can only select %qty% items"
+msgstr "Vous ne pouvez sélectionner que %qty% éléments"
+
+#: includes/admin/class-flash-admin-assets.php:92
+msgctxt "enhanced select"
+msgid "You can only select 1 item"
+msgstr "Vous ne pouvez sélectionner qu’un élément"
+
+#: includes/admin/class-flash-admin-assets.php:91
+msgctxt "enhanced select"
+msgid "Please delete %qty% characters"
+msgstr "Veuillez supprimer %qty% caractères"
+
+#: includes/admin/class-flash-admin-assets.php:90
+msgctxt "enhanced select"
+msgid "Please delete 1 character"
+msgstr "Veuillez supprimer 1 caractère"
+
+#: includes/admin/class-flash-admin-assets.php:89
+msgctxt "enhanced select"
+msgid "Please enter %qty% or more characters"
+msgstr "Veuillez saisir au moins %qty% caractères"
+
+#: includes/admin/class-flash-admin-assets.php:88
+msgctxt "enhanced select"
+msgid "Please enter 1 or more characters"
+msgstr "Veuillez saisir au moins 1 caractère"
+
+#: includes/admin/class-flash-admin-assets.php:87
+msgctxt "enhanced select"
+msgid "Loading failed"
+msgstr "Erreur de chargement"
+
+#: includes/admin/class-flash-admin-assets.php:86
+msgctxt "enhanced select"
+msgid "No matches found"
+msgstr "Aucune correspondance trouvée"
+
+#: includes/admin/class-flash-admin-assets.php:85
+msgctxt "enhanced select"
+msgid "%qty% results are available, use up and down arrow keys to navigate."
+msgstr "%qty% résultats sont disponibles, utilisez les flèches du clavier pour naviguer."
+
+#: includes/admin/class-flash-admin-assets.php:84
+msgctxt "enhanced select"
+msgid "One result is available, press enter to select it."
+msgstr "Un résultat est disponible, pressez Entrée pour le sélectionner."
+
+#: includes/abstracts/views/html-admin-tmpl-repeater.php:62
+msgid "Create your first field!"
+msgstr "Créez votre premier champ !"
+
+#: includes/abstracts/views/html-admin-tmpl-repeater.php:61
+msgid "When you add field, it will appear here."
+msgstr "Quand vous ajoutez un champ, il s’affiche ici."
+
+#: includes/abstracts/views/html-admin-tmpl-repeater.php:27
+#: includes/abstracts/views/html-admin-tmpl-repeater.php:52
+#: includes/functions-flash-core.php:342
+msgid "Close"
+msgstr "Fermer"
+
+#: includes/abstracts/views/html-admin-tmpl-repeater.php:27
+#: includes/abstracts/views/html-admin-tmpl-repeater.php:52
+msgid "Delete"
+msgstr "Supprimer"
+
+#: includes/abstracts/abstract-flash-widget.php:339
+#: includes/abstracts/abstract-flash-widget.php:481
+msgid "Icon"
+msgstr "Icône"
+
+#: includes/abstracts/abstract-flash-widget.php:339
+#: includes/abstracts/abstract-flash-widget.php:481
+msgid "Choose icons&hellip;"
+msgstr "Choix d’icônes&hellip;"
+
+#: includes/abstracts/abstract-flash-widget.php:328
+#: includes/abstracts/abstract-flash-widget.php:471
+msgid "Select an Image"
+msgstr "Sélection d'une image"
+
+#: includes/abstracts/abstract-flash-widget.php:328
+#: includes/abstracts/abstract-flash-widget.php:471
+msgid "Use image"
+msgstr "Utiliser l'image"
+
+#: includes/abstracts/abstract-flash-widget.php:328
+#: includes/abstracts/abstract-flash-widget.php:471
+msgid "Choose an image"
+msgstr "Choix d'une image"
+
+#: includes/abstracts/abstract-flash-widget.php:320
+#: includes/abstracts/abstract-flash-widget.php:463
+msgid "Remove media"
+msgstr "Supprimer le média"
+
+#: flash-toolkit.php:173
+msgid "Flash Theme"
+msgstr "Thème Flash"
+
+#: flash-toolkit.php:173
+msgid "This plugin requires %s by ThemeGrill to work."
+msgstr "Cette extension nécessite %s par ThemeGrill pour fonctionner."
+
+#. #-#-#-#-#  tmp-flash-toolkit.pot (Flash Toolkit 1.1.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: flash-toolkit.php:173
+msgid "Flash Toolkit"
+msgstr "Flash Toolkit"
+
+#: flash-toolkit.php:57 flash-toolkit.php:65
+#: includes/admin/class-flash-admin-notices.php:107
+#: includes/class-flash-sidebars.php:98
+msgid "Cheatin&#8217; huh?"
+msgstr "Alors on triche ?"
