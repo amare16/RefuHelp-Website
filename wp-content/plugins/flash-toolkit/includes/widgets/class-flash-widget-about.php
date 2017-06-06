@@ -33,28 +33,35 @@ class FT_Widget_About extends FT_Widget {
 			'about-title'  => array(
 				'type'  => 'text',
 				'std'   => '',
-				'label' => __( 'Title', 'flash-toolkit' )
+				'label' => __( 'Title', 'flash-toolkit' ),
+				'group' => __( 'General', 'flash-toolkit' ),
 			),
 			'text'  => array(
 				'type'  => 'textarea',
 				'std'   => '',
-				'label' => __( 'Text', 'flash-toolkit' )
+				'label' => __( 'Text', 'flash-toolkit' ),
+				'group' => __( 'General', 'flash-toolkit' ),
 			),
 			'more_text'  => array(
 				'type'  => 'text',
 				'std'   => '',
-				'label' => __( 'Read More Text', 'flash-toolkit' )
+				'label' => __( 'Read More Text', 'flash-toolkit' ),
+				'group' => __( 'General', 'flash-toolkit' ),
+				'field_width'	=> 'col-half',
 			),
 			'more_url'  => array(
 				'type'  => 'text',
 				'std'   => '',
-				'label' => __( 'Read More URL', 'flash-toolkit' )
+				'label' => __( 'Read More URL', 'flash-toolkit' ),
+				'group' => __( 'General', 'flash-toolkit' ),
+				'field_width'	=> 'col-half',
 			),
 			'image' => array(
 				'type'  => 'image',
 				'class' => 'show_if_image',
 				'std'   => '',
-				'label' => __( 'Image', 'flash-toolkit' )
+				'label' => __( 'Image', 'flash-toolkit' ),
+				'group' => __( 'General', 'flash-toolkit' ),
 			),
 		) );
 
@@ -72,6 +79,8 @@ class FT_Widget_About extends FT_Widget {
 	public function widget( $args, $instance ) {
 
 		$this->widget_start( $args, $instance );
+
+		$args['widget_id'] = $this->id;
 
 		flash_get_template( 'content-widget-about.php', array( 'args' => $args, 'instance' => $instance ) );
 

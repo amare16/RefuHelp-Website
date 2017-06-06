@@ -33,12 +33,12 @@ class FT_Widget_Image extends FT_Widget {
 			'image'  => array(
 				'type'  => 'image',
 				'std'   => '',
-				'label' => __( 'Image', 'flash-toolkit' )
+				'label' => __( 'Image', 'flash-toolkit' ),
 			),
 			'image_link'  => array(
 				'type'  => 'text',
 				'std'   => '',
-				'label' => __( 'Image Link', 'flash-toolkit' )
+				'label' => __( 'Image Link', 'flash-toolkit' ),
 			),
 		) );
 
@@ -56,6 +56,8 @@ class FT_Widget_Image extends FT_Widget {
 	public function widget( $args, $instance ) {
 
 		$this->widget_start( $args, $instance );
+
+		$args['widget_id'] = $this->id;
 
 		flash_get_template( 'content-widget-image.php', array( 'args' => $args, 'instance' => $instance ) );
 

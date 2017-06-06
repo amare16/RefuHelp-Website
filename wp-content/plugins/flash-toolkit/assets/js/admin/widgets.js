@@ -120,7 +120,63 @@ jQuery( function ( $ ) {
 				$( this ).closest( 'p' ).next( 'p' ).show();
 			}
 		}).change();
+
+		$( 'select.videoplayer-style' ).change( function() {
+			if ( $( this ).val() === 'player-background' ) {
+				$( this ).closest( '.widget-content' ).find( '.videoplayer-icon-style' ).closest( 'p' ).hide();
+				$( this ).closest( '.widget-content' ).find( '.videoplayer-btn-fields' ).closest( 'p' ).hide();
+				$( this ).closest( '.widget-content' ).find( '.videoplayer-thumbnail' ).show();
+			} else {
+				$( this ).closest( '.widget-content' ).find( '.videoplayer-icon-style' ).closest( 'p' ).show();
+				$( this ).closest( '.widget-content' ).find( '.videoplayer-btn-fields' ).closest( 'p' ).show();
+				$( this ).closest( '.widget-content' ).find( '.videoplayer-thumbnail' ).hide();
+			}
+		}).change();
+
+		$( 'select.hero-style-select' ).on( 'select2:select' , function(){
+			if ( $( this ).val() === 'tg-hero--default' ) {
+
+				$( this ).closest( '.widget-content' ).find( '.hero-title-font-select' ).val( 'Roboto' ).trigger( 'change' );
+				$( this ).closest( '.widget-content' ).find( '.hero-subtitle-font-select' ).val( 'Roboto' ).trigger( 'change' );
+
+			} else if ( $( this ).val() === 'tg-hero--thinner' ) {
+
+				$( this ).closest( '.widget-content' ).find( '.hero-title-font-select' ).val( 'Raleway' ).trigger( 'change' );
+				$( this ).closest( '.widget-content' ).find( '.hero-subtitle-font-select' ).val( 'Open Sans' ).trigger( 'change' );
+
+			} else if ( $( this ).val() === 'tg-hero--border' ) {
+
+				$( this ).closest( '.widget-content' ).find( '.hero-title-font-select' ).val( 'Archivo Black' ).trigger( 'change' );
+				$( this ).closest( '.widget-content' ).find( '.hero-subtitle-font-select' ).val( 'Roboto' ).trigger( 'change' );
+
+			} else if ( $( this ).val() === 'tg-hero--classic' ) {
+
+				$( this ).closest( '.widget-content' ).find( '.hero-title-font-select' ).val( 'Playfair Display' ).trigger( 'change' );
+				$( this ).closest( '.widget-content' ).find( '.hero-subtitle-font-select' ).val( 'PT Serif' ).trigger( 'change' );
+
+			} else if ( $( this ).val() === 'tg-hero--cursive' ) {
+
+				$( this ).closest( '.widget-content' ).find( '.hero-title-font-select' ).val( 'Lobster' ).trigger( 'change' );
+				$( this ).closest( '.widget-content' ).find( '.hero-subtitle-font-select' ).val( 'Roboto' ).trigger( 'change' );
+
+			}
+		}).change();
 	}).trigger( 'flash-toolkit-init-availability' );
+
+	// Tabs
+	$( document.body ).on('flash-toolkit-tabs', function() {
+
+		$( document.body ).on('click', '.flash-tab-title-container .flash-tab-title', function(event) {
+			event.preventDefault();
+			$(this).addClass('active');
+			$(this).siblings().removeClass('active');
+
+			var tab = $(this).attr('href');
+			$(this).parent().siblings('.flash-toolkit-tab-content-container').find('.flash-toolkit-tab').css('display', 'none');
+			$(this).parent().siblings('.flash-toolkit-tab-content-container').find(tab).fadeIn();
+		});
+
+	}).trigger('flash-toolkit-tabs');
 
 	// Accordion title.
 	// @todo Not loading on customizer.
@@ -170,6 +226,9 @@ jQuery( function ( $ ) {
 		if ( $size >= flashToolkitLocalizeScript.i18n_max_field_entries ) {
 			$widget.find( '.tg-widget-repeater-field-button a' ).addClass( 'disabled' );
 		}
+
+		// Trigger select2 on item add.
+		$( document.body ).trigger( 'flash-enhanced-select-init' );
 	});
 
 	// Control accordion toggles.

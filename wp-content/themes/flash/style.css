@@ -770,7 +770,9 @@ common
     margin-right: 3px;
 }
 .site{
-    background-color: #fff;
+    background-color: #cc6666;
+}
+;
 }
 
 
@@ -976,7 +978,7 @@ Header
 --------------------------------------------------------------*/
 
 .header-top {
-    background-color: #f1f5f8;
+    background-color: #4ddbff;
 }
 
 .header-top .contact-info {
@@ -1032,7 +1034,7 @@ Header
 /*-----------------Social menu-----------------*/
 
 .social-menu li a {
-    background-color: #fff;
+    background-color: #ccffff;
     border-radius: 100%;
     font-size: 12px;
     font-family: fontawesome;
@@ -1041,7 +1043,7 @@ Header
     line-height: 30px;
     height: 30px;
     width: 30px;
-    color: #99a3b0;
+    color: #4d4dff;
 }
 
 .transparent .social-menu li a {
@@ -1180,6 +1182,7 @@ Header
 #site-navigation ul li.current-menu-item > a,
 #site-navigation ul li.current_page_item > a {
     color: #30afb8;
+    background-color: #cc6666;
 }
 
 #site-navigation ul li:last-child {
@@ -1288,7 +1291,7 @@ Header
 }
 
 .header-bottom {
-    background: #fff;
+    background: #c8d0d0;
 }
 
 

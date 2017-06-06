@@ -3,7 +3,7 @@
  * Plugin Name: Flash Toolkit
  * Plugin URI: http://themegrill.com/theme/flash
  * Description: Flash Toolkit is a companion for Flash WordPress theme by ThemeGrill
- * Version: 1.1.1
+ * Version: 1.1.2
  * Author: ThemeGrill
  * Author URI: http://themegrill.com
  * License: GPLv3 or later
@@ -29,7 +29,7 @@ final class FlashToolkit {
 	 * Plugin version.
 	 * @var string
 	 */
-	public $version = '1.1.0';
+	public $version = '1.1.2';
 
 	/**
 	 * Instance of this class.
@@ -132,6 +132,7 @@ final class FlashToolkit {
 		include_once( FT_ABSPATH . 'includes/class-flash-autoloader.php' );
 		include_once( FT_ABSPATH . 'includes/class-flash-install.php' );
 		include_once( FT_ABSPATH . 'includes/class-flash-ajax.php' );
+		include_once( FT_ABSPATH . 'includes/class-flash-inline-style.php' );
 
 		if ( $this->is_request( 'admin' ) ) {
 			include_once( FT_ABSPATH . 'includes/admin/class-flash-admin.php' );
