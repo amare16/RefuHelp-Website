@@ -3,7 +3,7 @@ Contributors: ThemeGrill, shivapoudel
 Tags: theme, flash, toolkit, themegrill
 Requires at least: 4.0
 Tested up to: 4.7
-Stable tag: 1.1.2
+Stable tag: 1.1.3
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -31,6 +31,11 @@ Get free support at http://themegrill.com/support-forum/
 * The plugin currently only supports Flash theme.
 
 == Changelog ==
+== 1.1.3 - 2017-06-23 ==
+* Fix - Datepicker Field Not Working in Widget Area
+* Tweak - Better and advanced locale switching
+* Tweak - Better i18n
+
 == 1.1.2 - 2017-06-1 ==
 * Fix - Get the Excerpt causing infinity loop
 * Fix - Use wp_list_sort vs _usort_terms_by_ID
