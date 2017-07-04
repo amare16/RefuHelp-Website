@@ -770,7 +770,7 @@ common
     margin-right: 3px;
 }
 .site{
-    background-color: #006600;
+    background-color: #ffffff;
 }
 ;
 }
@@ -978,7 +978,7 @@ Header
 --------------------------------------------------------------*/
 
 .header-top {
-    background-color: #4ddbff;
+    background-color: #ffffff;
 }
 
 .header-top .contact-info {
@@ -1236,6 +1236,7 @@ Header
 
 #site-navigation ul li a {
     color: #4c5867;
+    font-weight: bold;
 }
 
 #site-navigation .sub-menu li.menu-item-has-children ul,
@@ -1291,7 +1292,7 @@ Header
 }
 
 .header-bottom {
-    background: #c8d0d0;
+    background: #f2f2f2;
 }
 
 
